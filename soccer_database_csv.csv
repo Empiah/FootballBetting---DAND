@@ -1,0 +1,761 @@
+country_name,league_name,season,home_team_goal,away_team_goal,Bet365_Home,Bet365_Draw,Bet365_Away,Ladbrokes_Home,Ladbrokes_Draw,Ladbrokes_Away,WilliamHill_Home,WilliamHill_Draw,WilliamHill_Away,home_team,away_team
+England,England Premier League,2015/2016,0,2,1.29,6,12,1.29,5.5,12,1.3,5,11,Arsenal,West Ham United
+England,England Premier League,2015/2016,0,1,2,3.6,4,2.05,3.3,4,1.91,3.5,4,Bournemouth,Aston Villa
+England,England Premier League,2015/2016,2,2,1.36,5,11,1.4,4.5,10,1.4,4,10,Chelsea,Swansea City
+England,England Premier League,2015/2016,2,2,1.7,3.9,5.5,1.75,3.8,5,1.73,3.5,5,Everton,Watford
+England,England Premier League,2015/2016,4,2,1.95,3.5,4.33,2,3.4,4.2,2,3.1,2.7,Leicester City,Sunderland
+England,England Premier League,2015/2016,1,0,1.65,4,6,1.67,4,5.5,1.62,3.6,6,Manchester United,Tottenham Hotspur
+England,England Premier League,2015/2016,2,2,2.88,3.3,2.7,2.88,3.3,2.6,2.7,3.1,2.7,Newcastle United,Southampton
+England,England Premier League,2015/2016,1,3,2.55,3.3,3,2.62,3.2,2.9,2.6,3.1,2.88,Norwich City,Crystal Palace
+England,England Premier League,2015/2016,0,1,3.4,3.4,2.3,3.4,3.3,2.3,3.3,3.1,2.3,Stoke City,Liverpool
+England,England Premier League,2015/2016,0,3,5.75,4,1.67,5.5,3.75,1.67,5.5,3.5,1.7,West Bromwich Albion,Manchester City
+England,England Premier League,2015/2016,2,1,1.44,4.75,8,1.44,4.5,8,1.44,4,8,Arsenal,Everton
+England,England Premier League,2015/2016,1,2,3,3.3,2.6,2.9,3.1,2.62,3,2.9,2.62,Aston Villa,Swansea City
+England,England Premier League,2015/2016,1,5,3.4,3.5,2.25,3.4,3.3,2.25,3.5,3,2.25,Bournemouth,Tottenham Hotspur
+England,England Premier League,2015/2016,1,0,2.2,3.6,3.4,2.25,3.4,3.3,2.3,2.9,3.5,Leicester City,Crystal Palace
+England,England Premier League,2015/2016,1,1,2.05,3.6,3.8,2.1,3.4,3.75,2.1,3.3,3.9,Liverpool,Southampton
+England,England Premier League,2015/2016,0,0,2.6,3.5,2.8,2.5,3.3,2.75,2.7,3.2,2.88,Manchester United,Manchester City
+England,England Premier League,2015/2016,0,1,2,3.5,4.2,2,3.4,4,2.05,3.1,4,Norwich City,West Bromwich Albion
+England,England Premier League,2015/2016,0,2,2.1,3.3,4,2.1,3.2,4,2.15,3.1,3.6,Stoke City,Watford
+England,England Premier League,2015/2016,3,0,2.6,3.4,2.9,2.62,3.3,2.88,2.62,3.1,3,Sunderland,Newcastle United
+England,England Premier League,2015/2016,2,1,4,3.8,1.95,3.75,3.6,2,4,3.2,2,West Ham United,Chelsea
+England,England Premier League,2015/2016,1,3,2.1,3.5,3.75,2.1,3.4,3.75,2.1,3.2,3.75,Chelsea,Liverpool
+England,England Premier League,2015/2016,0,0,3.8,3.5,2.1,3.8,3.4,2.05,4,3,2.1,Crystal Palace,Manchester United
+England,England Premier League,2015/2016,6,2,1.5,4.5,7.5,1.5,4.2,7,1.53,3.8,7,Everton,Sunderland
+England,England Premier League,2015/2016,2,1,1.29,6,12,1.29,6,11,1.29,5,12,Manchester City,Norwich City
+England,England Premier League,2015/2016,0,0,2.4,3.4,3.2,2.4,3.4,3.1,2.4,3.1,3.1,Newcastle United,Stoke City
+England,England Premier League,2015/2016,2,0,1.55,4.33,6.5,1.57,4.2,6,1.57,3.8,6,Southampton,Bournemouth
+England,England Premier League,2015/2016,0,3,5,4,1.75,4.75,3.8,1.73,5,3.5,1.75,Swansea City,Arsenal
+England,England Premier League,2015/2016,3,1,1.44,4.75,8,1.44,4.5,7.5,1.44,4.2,8,Tottenham Hotspur,Aston Villa
+England,England Premier League,2015/2016,2,0,2.6,3.4,2.9,2.5,3.4,2.9,2.62,3.1,2.8,Watford,West Ham United
+England,England Premier League,2015/2016,2,3,2.9,3.4,2.6,2.88,3.3,2.6,2.9,3,2.62,West Bromwich Albion,Leicester City
+England,England Premier League,2015/2016,1,1,1.73,4,5,1.7,4,5,1.75,3.4,5,Arsenal,Tottenham Hotspur
+England,England Premier League,2015/2016,0,0,7.5,5,1.44,7.5,4.75,1.44,8,4,1.44,Aston Villa,Manchester City
+England,England Premier League,2015/2016,0,1,2.25,3.5,3.4,2.2,3.5,3.4,2.25,3.1,3.4,Bournemouth,Newcastle United
+England,England Premier League,2015/2016,2,1,1.85,3.8,4.5,1.85,3.75,4.33,1.83,3.2,4.33,Leicester City,Watford
+England,England Premier League,2015/2016,1,2,1.67,3.8,6,1.7,3.75,5.5,1.7,3.2,6,Liverpool,Crystal Palace
+England,England Premier League,2015/2016,2,0,1.33,5.25,12,1.36,4.5,11,1.36,4,12,Manchester United,West Bromwich Albion
+England,England Premier League,2015/2016,1,0,2.45,3.4,3.1,2.4,3.4,3,2.5,3.1,2.9,Norwich City,Swansea City
+England,England Premier League,2015/2016,1,0,3.8,3.6,2.05,3.8,3.4,2.05,3.75,3.1,2.1,Stoke City,Chelsea
+England,England Premier League,2015/2016,0,1,4.75,3.8,1.8,4.75,3.6,1.8,5,3.2,1.8,Sunderland,Southampton
+England,England Premier League,2015/2016,1,1,2.6,3.5,2.8,2.6,3.4,2.8,2.62,3.1,2.8,West Ham United,Everton
+England,England Premier League,2015/2016,1,0,1.4,5,9,1.44,4.5,8.5,1.4,4.5,8,Chelsea,Norwich City
+England,England Premier League,2015/2016,0,1,1.57,4,7,1.57,4,6.5,1.6,3.4,7,Crystal Palace,Sunderland
+England,England Premier League,2015/2016,4,0,1.57,4.2,6.5,1.6,4,6,1.57,3.8,6,Everton,Aston Villa
+England,England Premier League,2015/2016,1,4,1.7,4,5.5,1.7,3.8,5.5,1.7,3.5,5.5,Manchester City,Liverpool
+England,England Premier League,2015/2016,0,3,2.88,3.6,2.5,2.8,3.5,2.5,2.75,3.25,2.6,Newcastle United,Leicester City
+England,England Premier League,2015/2016,0,1,1.57,4,7,1.62,3.8,6.5,1.62,3.5,6.5,Southampton,Stoke City
+England,England Premier League,2015/2016,2,2,1.91,3.6,4.5,1.91,3.5,4.33,1.95,3.1,4.5,Swansea City,Bournemouth
+England,England Premier League,2015/2016,4,1,1.57,4.2,6.5,1.57,4,6.5,1.6,3.75,6,Tottenham Hotspur,West Ham United
+England,England Premier League,2015/2016,1,2,4.33,3.4,2,4,3.4,2.05,4,3.1,2.05,Watford,Manchester United
+England,England Premier League,2015/2016,2,1,7,4.33,1.53,6.5,4.33,1.53,6.5,4,1.53,West Bromwich Albion,Arsenal
+England,England Premier League,2015/2016,2,3,2.75,3.3,2.8,2.7,3.25,2.8,2.7,3.1,2.7,Aston Villa,Watford
+England,England Premier League,2015/2016,3,3,2.9,3.6,2.5,2.9,3.5,2.5,2.9,3.2,2.5,Bournemouth,Everton
+England,England Premier League,2015/2016,5,1,1.7,3.9,5.5,1.7,3.8,5.5,1.73,3.5,5,Crystal Palace,Newcastle United
+England,England Premier League,2015/2016,1,1,3.1,3.5,2.4,3,3.4,2.38,3.1,3.1,2.4,Leicester City,Manchester United
+England,England Premier League,2015/2016,1,0,1.44,4.75,8,1.5,4.33,7,1.5,4,7,Liverpool,Swansea City
+England,England Premier League,2015/2016,3,1,1.6,4.33,6,1.57,4.33,6,1.57,3.8,6,Manchester City,Southampton
+England,England Premier League,2015/2016,1,1,6,4.2,1.62,5.5,4.2,1.62,5.5,4,1.57,Norwich City,Arsenal
+England,England Premier League,2015/2016,2,0,3.2,3.3,2.45,3.2,3.25,2.4,3.1,3.1,2.4,Sunderland,Stoke City
+England,England Premier League,2015/2016,0,0,2.6,3.4,2.9,2.6,3.4,2.8,2.5,3.2,2.9,Tottenham Hotspur,Chelsea
+England,England Premier League,2015/2016,1,1,2.05,3.5,4,2.05,3.4,3.8,2.05,3.3,3.75,West Ham United,West Bromwich Albion
+England,England Premier League,2015/2016,3,1,1.29,6,13,1.25,5.5,12,1.29,5,12,Arsenal,Sunderland
+England,England Premier League,2015/2016,0,1,1.36,5.25,9.5,1.36,4.75,9,1.36,4.5,9,Chelsea,Bournemouth
+England,England Premier League,2015/2016,1,1,2.1,3.6,3.75,2,3.4,3.6,2,3.3,3.75,Everton,Crystal Palace
+England,England Premier League,2015/2016,0,0,1.44,4.5,9,1.4,4.33,8.5,1.44,3.8,9,Manchester United,West Ham United
+England,England Premier League,2015/2016,2,0,5.75,4.33,1.62,5.25,4,1.57,5.5,3.75,1.62,Newcastle United,Liverpool
+England,England Premier League,2015/2016,1,1,1.5,4.5,7.5,1.5,4,7,1.53,3.6,7.5,Southampton,Aston Villa
+England,England Premier League,2015/2016,2,0,5.25,4,1.7,4.75,3.8,1.67,5.5,3.4,1.7,Stoke City,Manchester City
+England,England Premier League,2015/2016,0,3,2.7,3.4,2.75,2.5,3.3,2.62,2.8,3.1,2.62,Swansea City,Leicester City
+England,England Premier League,2015/2016,2,0,2.15,3.5,3.6,2.15,3.3,3.4,2.15,3.1,3.6,Watford,Norwich City
+England,England Premier League,2015/2016,1,1,4.75,3.6,1.85,4.33,3.5,1.83,4.5,3.1,1.91,West Bromwich Albion,Tottenham Hotspur
+England,England Premier League,2015/2016,0,2,6.5,4.2,1.57,6,4,1.53,6.5,3.75,1.57,Aston Villa,Arsenal
+England,England Premier League,2015/2016,2,1,3.4,3.4,2.3,3.3,3.4,2.3,3.2,3.2,2.3,Bournemouth,Manchester United
+England,England Premier League,2015/2016,1,0,2.6,3.3,3,2.5,3.2,2.9,2.5,3.1,3,Crystal Palace,Southampton
+England,England Premier League,2015/2016,2,1,3.2,3.5,2.35,3,3.4,2.3,3.2,3.2,2.3,Leicester City,Chelsea
+England,England Premier League,2015/2016,2,2,1.4,4.75,10,1.4,4.33,9,1.4,4.33,9,Liverpool,West Bromwich Albion
+England,England Premier League,2015/2016,2,1,1.3,6,11,1.3,5.5,10,1.33,4.8,10,Manchester City,Swansea City
+England,England Premier League,2015/2016,1,1,2.9,3.5,2.55,2.9,3.4,2.5,2.9,3.2,2.5,Norwich City,Everton
+England,England Premier League,2015/2016,0,1,2.9,3.3,2.63,2.8,3.1,2.6,2.75,3,2.75,Sunderland,Watford
+England,England Premier League,2015/2016,1,2,1.36,5.5,9,1.36,5,8,1.4,4.33,9,Tottenham Hotspur,Newcastle United
+England,England Premier League,2015/2016,0,0,2.63,3.3,2.9,2.5,3.1,2.8,2.62,3.1,2.8,West Ham United,Stoke City
+England,England Premier League,2015/2016,2,1,2.45,3.5,3,2.3,3.4,3,2.4,3.1,3.1,Arsenal,Manchester City
+England,England Premier League,2015/2016,3,1,1.33,5.25,12,1.29,5.25,12,1.3,5,11,Chelsea,Sunderland
+England,England Premier League,2015/2016,2,3,2.1,3.75,3.6,2.05,3.6,3.4,2.1,3.3,3.5,Everton,Leicester City
+England,England Premier League,2015/2016,1,2,1.45,4.5,8.5,1.44,4.2,7.5,1.44,4.2,8,Manchester United,Norwich City
+England,England Premier League,2015/2016,1,1,2.05,3.5,4,1.95,3.4,4,2,3.2,4,Newcastle United,Aston Villa
+England,England Premier League,2015/2016,0,2,2.7,3.4,2.8,2.5,3.3,2.75,2.7,3.1,2.7,Southampton,Tottenham Hotspur
+England,England Premier League,2015/2016,1,2,2.5,3.2,3.2,2.4,3.2,3,2.4,3.1,3.1,Stoke City,Crystal Palace
+England,England Premier League,2015/2016,0,0,2.1,3.4,3.9,2.05,3.25,3.75,2.15,3.25,3.5,Swansea City,West Ham United
+England,England Premier League,2015/2016,3,0,4.2,3.6,1.95,3.8,3.4,1.95,4,3.2,2,Watford,Liverpool
+England,England Premier League,2015/2016,1,2,2.55,3.3,3,2.4,3.2,2.9,2.6,3.1,2.8,West Bromwich Albion,Bournemouth
+England,England Premier League,2015/2016,1,1,2.63,3.25,2.75,2.6,3.1,2.8,2.7,3.1,2.7,Aston Villa,West Ham United
+England,England Premier League,2015/2016,0,0,2.4,3.3,3,2.3,3.3,3,2.5,3.2,2.9,Bournemouth,Crystal Palace
+England,England Premier League,2015/2016,2,2,1.44,4.5,7.5,1.48,4.2,7,1.44,4.2,8,Chelsea,Watford
+England,England Premier League,2015/2016,1,0,1.91,3.8,3.8,1.91,3.75,3.75,1.95,3.5,3.8,Liverpool,Leicester City
+England,England Premier League,2015/2016,4,1,1.2,7,13,1.2,7,15,1.22,6,13,Manchester City,Sunderland
+England,England Premier League,2015/2016,0,1,3.2,3.5,2.2,3.1,3.5,2.15,3.25,3.3,2.25,Newcastle United,Everton
+England,England Premier League,2015/2016,4,0,3.6,3.5,2.05,3.4,3.4,2.1,3.6,3.3,2.1,Southampton,Arsenal
+England,England Premier League,2015/2016,2,0,3.25,3.2,2.3,3.2,3.1,2.3,3.1,3.1,2.4,Stoke City,Manchester United
+England,England Premier League,2015/2016,1,0,1.91,3.4,4.5,1.91,3.25,4.2,2.05,3.1,4,Swansea City,West Bromwich Albion
+England,England Premier League,2015/2016,3,0,1.4,4.75,8,1.4,4.5,7.5,1.44,4.2,8,Tottenham Hotspur,Norwich City
+England,England Premier League,2015/2016,2,0,1.44,4.75,8,1.4,4.5,7.5,1.36,4.8,8.5,Arsenal,Bournemouth
+England,England Premier League,2015/2016,0,0,2.1,3.4,4,2.05,3.25,3.75,1.91,3.5,4,Crystal Palace,Swansea City
+England,England Premier League,2015/2016,3,4,1.95,3.6,4.2,1.91,3.4,4,1.95,3.5,3.8,Everton,Stoke City
+England,England Premier League,2015/2016,0,0,4.33,4,1.85,4,3.8,1.8,3.75,3.75,1.91,Leicester City,Manchester City
+England,England Premier League,2015/2016,0,0,2.6,3.3,3,2.5,3.1,2.8,2.62,3.1,3,Manchester United,Chelsea
+England,England Premier League,2015/2016,2,0,2.05,3.6,3.8,2,3.3,3.8,2.05,3.4,3.6,Norwich City,Aston Villa
+England,England Premier League,2015/2016,0,1,5.5,3.9,1.7,5,3.6,1.67,4.75,3.6,1.75,Sunderland,Liverpool
+England,England Premier League,2015/2016,1,2,3.75,3.5,2.1,3.6,3.3,2.05,3.5,3.25,2.15,Watford,Tottenham Hotspur
+England,England Premier League,2015/2016,1,0,2.2,3.25,3.75,2.1,3.2,3.6,2.25,3.2,3.3,West Bromwich Albion,Newcastle United
+England,England Premier League,2015/2016,2,1,3.6,3.4,2.2,3.3,3.25,2.2,3.4,3.2,2.2,West Ham United,Southampton
+England,England Premier League,2015/2016,0,1,5.5,3.8,1.73,5.5,3.6,1.73,5.5,3.6,1.75,Aston Villa,Manchester United
+England,England Premier League,2015/2016,1,2,5.25,3.9,1.73,5,3.75,1.75,5,3.5,1.75,Crystal Palace,Arsenal
+England,England Premier League,2015/2016,1,0,1.45,4.75,8,1.45,4.5,7.5,1.5,4.2,6.5,Liverpool,Bournemouth
+England,England Premier League,2015/2016,3,0,2.1,3.5,3.75,2.1,3.4,3.75,2.15,3.2,3.6,Manchester City,Chelsea
+England,England Premier League,2015/2016,0,3,1.95,3.6,4.33,2,3.3,4.33,2,3.25,4,Southampton,Everton
+England,England Premier League,2015/2016,1,3,2.5,3.3,3.1,2.4,3.3,3.1,2.5,3,3,Sunderland,Norwich City
+England,England Premier League,2015/2016,2,0,1.95,3.6,4.33,1.95,3.5,4.2,1.95,3.2,4.33,Swansea City,Newcastle United
+England,England Premier League,2015/2016,2,2,1.8,3.75,5,1.8,3.75,4.75,1.8,3.3,5,Tottenham Hotspur,Stoke City
+England,England Premier League,2015/2016,0,0,2.3,3.4,3.4,2.3,3.4,3.2,2.3,3.2,3.2,Watford,West Bromwich Albion
+England,England Premier League,2015/2016,1,2,2.25,3.5,3.4,2.25,3.4,3.3,2.3,3.2,3.2,West Ham United,Leicester City
+England,England Premier League,2015/2016,1,0,1.29,6.5,11,1.25,5.75,12,1.3,5,11,Arsenal,Newcastle United
+England,England Premier League,2015/2016,0,3,3.8,3.5,2.1,3.8,3.3,2,3.75,3.2,2.1,Crystal Palace,Chelsea
+England,England Premier League,2015/2016,1,1,2.8,3.5,2.63,2.62,3.4,2.6,2.7,3.1,2.7,Everton,Tottenham Hotspur
+England,England Premier League,2015/2016,0,0,1.91,3.75,4.33,1.85,3.6,4,1.95,3.4,4,Leicester City,Bournemouth
+England,England Premier League,2015/2016,2,1,1.55,4.2,7,1.53,3.8,7,1.57,3.6,7,Manchester United,Swansea City
+England,England Premier League,2015/2016,1,0,3.2,3.4,2.4,3,3.3,2.3,3.1,3.2,2.38,Norwich City,Southampton
+England,England Premier League,2015/2016,3,1,2.5,3.25,3.2,2.4,3.1,2.9,2.4,3.1,3.1,Sunderland,Aston Villa
+England,England Premier League,2015/2016,1,2,5,4,1.75,4.75,3.8,1.7,5,3.6,1.73,Watford,Manchester City
+England,England Premier League,2015/2016,2,1,2.8,3.2,2.8,2.7,3,2.75,2.8,3.1,2.62,West Bromwich Albion,Stoke City
+England,England Premier League,2015/2016,2,0,4,3.5,2.05,3.8,3.4,2,3.8,3.4,2,West Ham United,Liverpool
+England,England Premier League,2015/2016,1,0,3.2,3.25,2.45,3,3.1,2.4,3.1,3,2.5,Aston Villa,Crystal Palace
+England,England Premier League,2015/2016,1,3,2,3.6,4,1.95,3.4,3.8,2,3.4,3.8,Bournemouth,West Ham United
+England,England Premier League,2015/2016,2,4,1.8,3.6,5.25,1.73,3.6,5,1.8,3.4,4.8,Swansea City,Sunderland
+England,England Premier League,2015/2016,3,3,2.88,3.4,2.6,2.75,3.3,2.5,2.9,3.2,2.5,Liverpool,Arsenal
+England,England Premier League,2015/2016,2,2,1.44,4.5,9,1.44,4.2,8,1.44,4.2,8,Chelsea,West Bromwich Albion
+England,England Premier League,2015/2016,0,0,1.53,4.75,6,1.48,4.5,6,1.53,4,6.5,Manchester City,Everton
+England,England Premier League,2015/2016,3,3,5,3.7,1.8,5,3.5,1.8,5,3.3,1.8,Newcastle United,Manchester United
+England,England Premier League,2015/2016,2,0,1.95,3.5,4.33,1.95,3.3,4,2,3.2,4,Southampton,Watford
+England,England Premier League,2015/2016,3,1,2.05,3.3,4.2,1.95,3.3,4,2.05,3.1,4,Stoke City,Norwich City
+England,England Premier League,2015/2016,0,1,1.75,3.8,5.25,1.73,3.6,4.75,1.8,3.5,4.5,Tottenham Hotspur,Leicester City
+England,England Premier League,2015/2016,1,1,3.6,3.4,2.2,3.5,3.25,2.1,3.4,3.1,2.25,Aston Villa,Leicester City
+England,England Premier League,2015/2016,3,0,1.91,3.6,4.5,1.85,3.5,4.33,1.95,3.1,4.33,Bournemouth,Norwich City
+England,England Premier League,2015/2016,3,3,1.83,3.75,4.75,1.75,3.6,4.5,1.75,3.5,4.8,Chelsea,Everton
+England,England Premier League,2015/2016,0,1,2.3,3.25,3.5,2.2,3.25,3.3,2.4,3.1,3.1,Liverpool,Manchester United
+England,England Premier League,2015/2016,4,0,1.4,5.25,8.5,1.36,4.75,8,1.4,4.2,9,Manchester City,Crystal Palace
+England,England Premier League,2015/2016,2,1,2.5,3.4,3,2.4,3.3,2.88,2.62,3.1,2.75,Newcastle United,West Ham United
+England,England Premier League,2015/2016,3,0,1.73,3.75,5.5,1.67,3.5,5.5,1.75,3.25,5.5,Southampton,West Bromwich Albion
+England,England Premier League,2015/2016,0,0,4.33,3.6,1.95,4,3.5,1.91,4.33,3.1,1.95,Stoke City,Arsenal
+England,England Premier League,2015/2016,1,0,2.38,3.25,3.4,2.3,3.1,3.2,2.5,3.1,2.9,Swansea City,Watford
+England,England Premier League,2015/2016,4,1,1.36,5.25,9.5,1.35,4.75,9,1.4,4,10,Tottenham Hotspur,Sunderland
+England,England Premier League,2015/2016,0,1,2.1,3.5,3.9,2,3.4,3.6,2.1,3.2,3.75,Arsenal,Chelsea
+England,England Premier League,2015/2016,1,3,3.6,3.5,2.15,3.5,3.2,2.15,3.3,3.3,2.2,Crystal Palace,Tottenham Hotspur
+England,England Premier League,2015/2016,1,2,1.73,3.8,5.5,1.67,3.6,5.25,1.67,3.6,5.5,Everton,Swansea City
+England,England Premier League,2015/2016,3,0,2.1,3.5,3.8,1.95,3.3,3.8,2.05,3.25,3.8,Leicester City,Stoke City
+England,England Premier League,2015/2016,0,1,1.91,3.5,4.75,1.85,3.3,4.5,1.91,3.2,4.5,Manchester United,Southampton
+England,England Premier League,2015/2016,4,5,4.33,3.5,1.95,3.8,3.4,1.95,4.33,3.25,1.91,Norwich City,Liverpool
+England,England Premier League,2015/2016,1,1,3,3.4,2.5,2.9,3.1,2.4,3,3,2.5,Sunderland,Bournemouth
+England,England Premier League,2015/2016,2,1,2.05,3.5,4,2,3.4,3.6,2.1,3.2,3.75,Watford,Newcastle United
+England,England Premier League,2015/2016,0,0,2.1,3.3,4,2.1,3.1,3.8,2.1,3,4,West Bromwich Albion,Aston Villa
+England,England Premier League,2015/2016,2,2,5,4,1.73,4.75,3.8,1.67,5,3.6,1.73,West Ham United,Manchester City
+England,England Premier League,2015/2016,0,0,1.75,3.75,5.25,1.73,3.5,5,1.8,3.2,5,Arsenal,Southampton
+England,England Premier League,2015/2016,2,0,2.63,3.4,2.88,2.5,3.3,2.7,2.62,3.1,2.8,Leicester City,Liverpool
+England,England Premier League,2015/2016,0,3,4.5,3.75,1.85,4.2,3.6,1.83,4.5,3.4,1.83,Norwich City,Tottenham Hotspur
+England,England Premier League,2015/2016,0,1,8,4.75,1.45,6.5,4.5,1.44,7,4,1.5,Sunderland,Manchester City
+England,England Premier League,2015/2016,0,0,4.33,3.5,1.95,4,3.3,1.91,4,3.25,2,Watford,Chelsea
+England,England Premier League,2015/2016,2,0,1.91,3.5,4.75,1.85,3.4,4.33,1.91,3.2,4.33,West Ham United,Aston Villa
+England,England Premier League,2015/2016,1,2,2.45,3.3,3.2,2.4,3.1,3.1,2.5,3.1,3,Crystal Palace,Bournemouth
+England,England Premier League,2015/2016,3,0,1.7,3.75,5.75,1.65,3.6,5.75,1.67,3.5,6,Manchester United,Stoke City
+England,England Premier League,2015/2016,1,1,2.63,3.1,3.1,2.6,2.9,3,2.62,3,2.9,West Bromwich Albion,Swansea City
+England,England Premier League,2015/2016,3,0,1.65,4.2,5.5,1.65,4,4.75,1.67,3.8,5,Everton,Newcastle United
+England,England Premier League,2015/2016,2,0,2.45,3.2,3.3,2.3,3.2,3.2,2.4,3.1,3.1,Aston Villa,Norwich City
+England,England Premier League,2015/2016,0,2,3.8,3.5,2.1,3.6,3.4,2.05,4,3.2,2,Bournemouth,Arsenal
+England,England Premier League,2015/2016,1,1,2.15,3.3,3.9,2.05,3.2,3.8,2.1,3.1,3.8,Chelsea,Manchester United
+England,England Premier League,2015/2016,2,2,1.44,4.75,8.5,1.4,4.33,7.5,1.44,4.2,8,Liverpool,Sunderland
+England,England Premier League,2015/2016,1,3,1.62,4.2,6,1.57,4,5.75,1.62,3.6,6,Manchester City,Leicester City
+England,England Premier League,2015/2016,1,0,2.15,3.4,3.8,2.15,3.1,3.6,2.2,3.3,3.3,Newcastle United,West Bromwich Albion
+England,England Premier League,2015/2016,1,0,1.73,3.8,5.5,1.67,3.6,5.25,1.75,3.5,5,Southampton,West Ham United
+England,England Premier League,2015/2016,0,3,2.7,3.4,2.8,2.5,3.2,2.8,2.62,3.1,2.8,Stoke City,Everton
+England,England Premier League,2015/2016,1,1,2.25,3.3,3.6,2.2,3.1,3.5,2.25,3.1,3.4,Swansea City,Crystal Palace
+England,England Premier League,2015/2016,1,0,1.5,4.33,8,1.48,4,7,1.5,4,7,Tottenham Hotspur,Watford
+England,England Premier League,2015/2016,2,1,1.75,4,5,1.7,3.8,4.5,1.75,3.8,4.5,Arsenal,Leicester City
+England,England Premier League,2015/2016,0,6,4.75,3.6,1.85,4.5,3.4,1.8,4.5,3.4,1.85,Aston Villa,Liverpool
+England,England Premier League,2015/2016,1,3,2.05,3.4,4.1,2,3.25,3.8,2.05,3.1,4,Bournemouth,Stoke City
+England,England Premier League,2015/2016,5,1,1.44,4.75,8,1.44,4.5,7,1.44,4.2,8,Chelsea,Newcastle United
+England,England Premier League,2015/2016,1,2,2.25,3.3,3.6,2.2,3.1,3.5,2.3,3.1,3.3,Crystal Palace,Watford
+England,England Premier League,2015/2016,0,1,1.53,4.2,7.5,1.5,4,6.5,1.53,3.75,7,Everton,West Bromwich Albion
+England,England Premier League,2015/2016,1,2,2.1,3.75,3.6,2.05,3.4,3.5,2.1,3.3,3.6,Manchester City,Tottenham Hotspur
+England,England Premier League,2015/2016,2,2,2.38,3.4,3.25,2.4,3.25,2.9,2.5,3.2,2.9,Norwich City,West Ham United
+England,England Premier League,2015/2016,2,1,5.25,3.75,1.75,4.75,3.5,1.75,5,3.3,1.8,Sunderland,Manchester United
+England,England Premier League,2015/2016,0,1,3.2,3.25,2.5,3.1,3.1,2.3,3,3.1,2.5,Swansea City,Southampton
+England,England Premier League,2015/2016,1,0,1.5,4.33,6,1.5,4.2,6,1.5,4.2,6.5,Leicester City,Norwich City
+England,England Premier League,2015/2016,4,0,1.73,4,5,1.67,3.8,4.75,1.7,3.6,5,Liverpool,Everton
+England,England Premier League,2015/2016,3,2,3,3.25,2.38,2.9,3.1,2.4,3.3,3.2,2.25,Manchester United,Arsenal
+England,England Premier League,2015/2016,1,1,6,4.5,1.57,6,4.33,1.57,6,3.8,1.57,Newcastle United,Manchester City
+England,England Premier League,2015/2016,1,2,2.8,3.25,2.5,2.8,3.1,2.5,2.75,3.2,2.62,Southampton,Chelsea
+England,England Premier League,2015/2016,2,1,1.62,3.75,5.5,1.67,3.6,5.5,1.67,3.4,6,Stoke City,Aston Villa
+England,England Premier League,2015/2016,2,1,1.4,4.2,9,1.44,4,8,1.44,4.2,7.5,Tottenham Hotspur,Swansea City
+England,England Premier League,2015/2016,0,0,2.38,3.25,3,2.38,3.2,3,2.38,3.25,3,Watford,Bournemouth
+England,England Premier League,2015/2016,3,2,2.6,3.1,2.8,2.75,3,2.75,2.6,3,2.9,West Bromwich Albion,Crystal Palace
+England,England Premier League,2015/2016,1,0,1.8,3.5,4.5,1.8,3.6,4.33,1.83,3.6,4.2,West Ham United,Sunderland
+England,England Premier League,2015/2016,1,2,1.36,5.25,10,1.36,5,10,1.36,4.8,8.5,Arsenal,Swansea City
+England,England Premier League,2015/2016,1,3,4.5,3.6,1.91,4.5,3.5,1.9,4.5,3.4,1.85,Aston Villa,Everton
+England,England Premier League,2015/2016,2,0,2.9,3.25,2.7,2.9,3.2,2.62,2.88,3.1,2.62,Bournemouth,Southampton
+England,England Premier League,2015/2016,2,2,1.73,3.8,5.5,1.67,3.75,6,1.7,3.5,5.5,Leicester City,West Bromwich Albion
+England,England Premier League,2015/2016,1,2,5.25,4,1.7,5.5,4,1.67,5.5,3.6,1.67,Norwich City,Chelsea
+England,England Premier League,2015/2016,2,2,2.5,3.3,3.1,2.45,3.2,3.2,2.5,3.1,3,Sunderland,Crystal Palace
+England,England Premier League,2015/2016,1,0,4,3.6,2,3.8,3.5,2.05,4,3.2,2,West Ham United,Tottenham Hotspur
+England,England Premier League,2015/2016,3,0,2.63,3.4,2.88,2.62,3.4,2.8,2.62,3.2,2.8,Liverpool,Manchester City
+England,England Premier League,2015/2016,1,0,1.67,3.8,6,1.67,3.75,6,1.67,3.4,6,Manchester United,Watford
+England,England Premier League,2015/2016,1,0,2,3.5,4.2,1.95,3.4,4.33,1.95,3.4,4,Stoke City,Newcastle United
+England,England Premier League,2015/2016,1,1,1.5,4.5,7.5,1.48,4.2,7,1.53,3.75,7,Chelsea,Stoke City
+England,England Premier League,2015/2016,1,2,3.8,3.5,2.1,3.5,3.3,2.05,3.75,3.1,2.15,Crystal Palace,Liverpool
+England,England Premier League,2015/2016,2,3,1.73,4,5,1.67,3.8,5,1.75,3.5,5,Everton,West Ham United
+England,England Premier League,2015/2016,4,0,1.22,7,15,1.2,6.5,15,1.22,5.5,17,Manchester City,Aston Villa
+England,England Premier League,2015/2016,1,3,2.63,3.4,2.88,2.5,3.25,2.75,2.62,3.1,2.8,Newcastle United,Bournemouth
+England,England Premier League,2015/2016,1,1,1.6,4,6.5,1.57,3.8,6,1.62,3.6,6,Southampton,Sunderland
+England,England Premier League,2015/2016,1,0,2.05,3.5,4,1.95,3.3,3.8,2.05,3.1,4,Swansea City,Norwich City
+England,England Premier League,2015/2016,2,2,2.38,3.4,3.25,2.3,3.3,3,2.4,3.1,3.1,Tottenham Hotspur,Arsenal
+England,England Premier League,2015/2016,0,1,3,3.4,2.55,2.9,3.2,2.4,2.8,3.1,2.62,Watford,Leicester City
+England,England Premier League,2015/2016,1,0,4.33,3.4,2,4,3.25,1.95,4,3.2,2,West Bromwich Albion,Manchester United
+England,England Premier League,2015/2016,0,0,1.75,4,5,1.75,3.75,5,1.73,3.5,5,Arsenal,Liverpool
+England,England Premier League,2015/2016,2,1,1.85,3.6,4.75,1.85,3.5,4.5,1.85,3.4,4.5,Crystal Palace,Aston Villa
+England,England Premier League,2015/2016,0,2,5,4,1.73,5,4,1.73,5,3.5,1.75,Everton,Manchester City
+England,England Premier League,2015/2016,1,1,2.63,3.6,2.75,2.7,3.4,2.7,2.7,3.1,2.7,Leicester City,Tottenham Hotspur
+England,England Premier League,2015/2016,0,0,1.36,5.25,10,1.36,5,9.5,1.36,5,8,Manchester United,Newcastle United
+England,England Premier League,2015/2016,1,1,2.3,3.3,3.5,2.4,3.3,3.2,2.3,3.2,3.1,Norwich City,Stoke City
+England,England Premier League,2015/2016,1,1,4,3.4,2.1,4,3.25,2.1,3.75,3.2,2.1,Sunderland,Swansea City
+England,England Premier League,2015/2016,0,0,2.8,3.3,2.75,2.75,3.3,2.7,2.7,3.1,2.7,Watford,Southampton
+England,England Premier League,2015/2016,2,3,6.5,4,1.62,6,3.75,1.67,6,3.4,1.67,West Bromwich Albion,Chelsea
+England,England Premier League,2015/2016,3,4,2.38,3.4,3.2,2.38,3.4,3.2,2.4,3.1,3.1,West Ham United,Bournemouth
+England,England Premier League,2015/2016,2,0,1.29,6,13,1.25,5.75,13,1.29,5,12,Arsenal,West Bromwich Albion
+England,England Premier League,2015/2016,0,2,7.5,4.5,1.5,7,4.2,1.48,7,4,1.5,Aston Villa,Tottenham Hotspur
+England,England Premier League,2015/2016,3,2,1.95,3.5,4.33,1.91,3.3,4.2,2,3.2,4,Bournemouth,Swansea City
+England,England Premier League,2015/2016,1,0,1.57,4.33,6.25,1.55,4,6,1.62,3.6,6,Leicester City,Newcastle United
+England,England Premier League,2015/2016,1,1,2,3.8,3.8,1.91,3.6,3.6,1.95,3.5,3.75,Liverpool,Chelsea
+England,England Premier League,2015/2016,2,0,1.53,4.33,7,1.53,4,6.5,1.53,3.8,7,Manchester United,Crystal Palace
+England,England Premier League,2015/2016,0,0,6,4.2,1.6,5.75,4,1.57,6,3.6,1.62,Norwich City,Manchester City
+England,England Premier League,2015/2016,1,2,2.7,3.2,2.9,2.7,3.1,2.75,2.7,3.1,2.7,Stoke City,Southampton
+England,England Premier League,2015/2016,3,0,1.75,4,5,1.7,3.8,4.75,1.73,3.5,5,Sunderland,Everton
+England,England Premier League,2015/2016,3,1,1.57,4.33,6.5,1.5,4.2,6,1.53,4,6.5,West Ham United,Watford
+England,England Premier League,2015/2016,2,2,1.75,3.8,5.25,1.7,3.75,5,1.73,3.6,5,Chelsea,West Ham United
+England,England Premier League,2015/2016,0,1,3,3.4,2.5,2.9,3.25,2.4,3,3.1,2.5,Crystal Palace,Leicester City
+England,England Premier League,2015/2016,0,2,2.7,3.5,2.7,2.62,3.5,2.5,2.5,3.6,2.6,Everton,Arsenal
+England,England Premier League,2015/2016,0,1,1.83,3.75,4.75,1.8,3.6,4.5,1.85,3.4,4.5,Manchester City,Manchester United
+England,England Premier League,2015/2016,1,1,2.1,3.5,3.8,2.05,3.3,3.6,2.2,3.1,3.5,Newcastle United,Sunderland
+England,England Premier League,2015/2016,3,2,2.63,3.4,2.88,2.5,3.1,2.8,2.75,3,2.75,Southampton,Liverpool
+England,England Premier League,2015/2016,1,0,1.67,3.8,6,1.62,3.6,5.75,1.67,3.4,6,Swansea City,Aston Villa
+England,England Premier League,2015/2016,3,0,1.53,4.33,7,1.53,4,6,1.57,3.75,6.5,Tottenham Hotspur,Bournemouth
+England,England Premier League,2015/2016,1,2,2.4,3.25,3.3,2.3,3.1,3.2,2.5,3,3.1,Watford,Stoke City
+England,England Premier League,2015/2016,0,1,2.25,3.3,3.6,2.2,3.1,3.4,2.25,3.2,3.3,West Bromwich Albion,Norwich City
+England,England Premier League,2015/2016,4,0,1.36,5.25,10,1.36,5,9,1.36,4.8,8.5,Arsenal,Watford
+England,England Premier League,2015/2016,0,4,6.5,4.33,1.57,6,4,1.62,6.5,3.75,1.57,Aston Villa,Chelsea
+England,England Premier League,2015/2016,0,4,3.75,3.6,2.1,3.75,3.5,2.05,3.75,3.3,2.05,Bournemouth,Manchester City
+England,England Premier League,2015/2016,1,0,2.25,3.4,3.5,2.25,3.25,3.5,2.3,3.2,3.2,Leicester City,Southampton
+England,England Premier League,2015/2016,1,1,2.5,3.4,3,2.6,3.3,2.9,2.6,3,2.9,Liverpool,Tottenham Hotspur
+England,England Premier League,2015/2016,1,0,2.1,3.5,3.75,2.1,3.4,3.8,2.1,3.1,3.8,Manchester United,Everton
+England,England Premier League,2015/2016,3,2,2.2,3.4,3.6,2.2,3.25,3.6,2.25,3.25,3.2,Norwich City,Newcastle United
+England,England Premier League,2015/2016,2,2,2.2,3.4,3.6,2.2,3.25,3.6,2.2,3.3,3.3,Stoke City,Swansea City
+England,England Premier League,2015/2016,0,0,2.1,3.3,4,2.15,3.2,3.8,2.05,3.1,4,Sunderland,West Bromwich Albion
+England,England Premier League,2015/2016,2,2,1.95,3.6,4.2,1.95,3.4,4.2,2,3.2,4,West Ham United,Crystal Palace
+England,England Premier League,2015/2016,1,2,3.4,3.2,2.2,3.4,3.3,2.15,3.5,3.25,2.15,Aston Villa,Bournemouth
+England,England Premier League,2015/2016,1,0,2.05,3.4,3.6,2.05,3.25,3.75,2,3.4,3.8,Crystal Palace,Norwich City
+England,England Premier League,2015/2016,4,1,1.55,4,5.75,1.57,3.8,5.75,1.6,3.75,6,Liverpool,Stoke City
+England,England Premier League,2015/2016,2,1,1.33,5,9,1.33,5,10,1.33,4.8,10,Manchester City,West Bromwich Albion
+England,England Premier League,2015/2016,3,1,1.53,4,6,1.53,4,6.5,1.57,3.75,6.5,Southampton,Newcastle United
+England,England Premier League,2015/2016,0,2,3.4,3.4,2.1,3.4,3.3,2.15,3.5,3.25,2.15,Sunderland,Leicester City
+England,England Premier League,2015/2016,1,0,3.75,3.4,2,3.6,3.3,2.05,3.8,3.3,2,Swansea City,Chelsea
+England,England Premier League,2015/2016,3,0,1.91,3.5,4,1.91,3.4,4,1.95,3.5,3.8,Tottenham Hotspur,Manchester United
+England,England Premier League,2015/2016,1,1,3.4,3.3,2.15,3.3,3.3,2.15,3.5,3.25,2.15,Watford,Everton
+England,England Premier League,2015/2016,3,3,3.6,3.5,2,3.6,3.6,1.95,3.5,3.6,2,West Ham United,Arsenal
+England,England Premier League,2015/2016,1,1,1.33,5.75,9.5,1.36,5.25,9,1.35,4.8,9,Arsenal,Crystal Palace
+England,England Premier League,2015/2016,1,2,3.6,3.5,2.15,3.5,3.4,2.2,3.5,3.25,2.15,Bournemouth,Liverpool
+England,England Premier League,2015/2016,0,3,2.75,3.4,2.7,2.75,3.3,2.75,2.7,3.1,2.7,Chelsea,Manchester City
+England,England Premier League,2015/2016,1,1,2.7,3.4,2.8,2.6,3.3,2.88,2.7,3.1,2.7,Everton,Southampton
+England,England Premier League,2015/2016,2,2,1.95,3.6,4.2,1.95,3.5,4.2,1.91,3.3,4.2,Leicester City,West Ham United
+England,England Premier League,2015/2016,1,0,1.22,7,17,1.22,6,17,1.25,5.5,13,Manchester United,Aston Villa
+England,England Premier League,2015/2016,3,0,2.3,3.4,3.4,2.3,3.3,3.3,2.3,3.2,3.2,Newcastle United,Swansea City
+England,England Premier League,2015/2016,0,3,2.4,3.3,3.25,2.4,3.25,3.2,2.4,3.1,3.1,Norwich City,Sunderland
+England,England Premier League,2015/2016,0,4,4.5,3.75,1.85,4.5,3.6,1.85,4.5,3.4,1.85,Stoke City,Tottenham Hotspur
+England,England Premier League,2015/2016,0,1,2.4,3.2,3.4,2.4,3.1,3.3,2.4,3.1,3.1,West Bromwich Albion,Watford
+England,England Premier League,2015/2016,2,4,7.5,4.2,1.53,6.5,4,1.57,7,3.6,1.57,Aston Villa,Southampton
+England,England Premier League,2015/2016,1,4,3.1,3.5,2.4,3,3.5,2.4,3.1,3.1,2.4,Bournemouth,Chelsea
+England,England Premier League,2015/2016,0,0,2.9,3.4,2.6,2.9,3.3,2.4,2.8,3.1,2.6,Crystal Palace,Everton
+England,England Premier League,2015/2016,4,0,1.75,3.7,5.5,1.75,3.6,5.5,1.75,3.5,5,Leicester City,Swansea City
+England,England Premier League,2015/2016,2,2,1.57,4.5,6,1.57,4.33,6,1.6,4,5.5,Liverpool,Newcastle United
+England,England Premier League,2015/2016,4,0,1.3,6,11,1.33,5.5,10,1.33,5,9,Manchester City,Stoke City
+England,England Premier League,2015/2016,4,2,1.83,3.75,4.75,1.8,3.6,4.33,1.8,3.3,5,Norwich City,Watford
+England,England Premier League,2015/2016,0,0,4.5,4,1.8,4.5,3.8,1.8,4.5,3.5,1.8,Sunderland,Arsenal
+England,England Premier League,2015/2016,1,1,1.22,7,15,1.25,6,15,1.25,5.5,13,Tottenham Hotspur,West Bromwich Albion
+England,England Premier League,2015/2016,3,2,3,3.5,2.45,3,3.4,2.45,3,3.25,2.4,West Ham United,Manchester United
+England,England Premier League,2015/2016,1,0,1.29,6.5,11,1.25,5.75,12,1.29,5,12,Arsenal,Norwich City
+England,England Premier League,2015/2016,2,2,2.75,3.6,2.63,2.62,3.4,2.6,2.75,3.1,2.7,Chelsea,Tottenham Hotspur
+England,England Premier League,2015/2016,2,1,2,3.8,3.8,1.95,3.6,3.6,2.05,3.1,4,Everton,Bournemouth
+England,England Premier League,2015/2016,1,1,2.1,3.4,3.9,2,3.3,3.8,2.15,3.1,3.6,Manchester United,Leicester City
+England,England Premier League,2015/2016,1,0,2,3.6,4,2,3.3,3.75,2.05,3.1,4,Newcastle United,Crystal Palace
+England,England Premier League,2015/2016,4,2,2.8,3.4,2.7,2.62,3.3,2.62,2.75,3.1,2.7,Southampton,Manchester City
+England,England Premier League,2015/2016,1,1,2.75,3.3,2.8,2.62,3.1,2.7,2.62,3.1,2.8,Stoke City,Sunderland
+England,England Premier League,2015/2016,3,1,3.1,3.5,2.4,3,3.4,2.3,3.1,3.1,2.4,Swansea City,Liverpool
+England,England Premier League,2015/2016,3,2,1.7,3.8,5.75,1.7,3.6,5,1.7,3.5,5.5,Watford,Aston Villa
+England,England Premier League,2015/2016,0,3,4,3.4,2.1,3.8,3.3,1.95,3.7,3.2,2.1,West Bromwich Albion,West Ham United
+England,England Premier League,2015/2016,0,0,5.75,4.2,1.65,5.5,4,1.65,6,3.6,1.62,Aston Villa,Newcastle United
+England,England Premier League,2015/2016,1,1,1.95,3.6,4.2,1.95,3.5,4.33,1.91,3.2,4.33,Bournemouth,West Bromwich Albion
+England,England Premier League,2015/2016,2,1,2.05,3.5,3.9,2.1,3.4,3.8,2.1,3.25,3.6,Crystal Palace,Stoke City
+England,England Premier League,2015/2016,3,1,1.91,4,4,1.9,3.75,4.2,1.91,3.2,4.33,Leicester City,Everton
+England,England Premier League,2015/2016,2,0,1.5,4.5,7.5,1.53,4.5,6.5,1.5,4,7,Liverpool,Watford
+England,England Premier League,2015/2016,2,2,2.5,3.6,2.9,2.5,3.5,2.9,2.5,3.1,2.9,Manchester City,Arsenal
+England,England Premier League,2015/2016,0,1,4.5,3.6,1.91,4.33,3.6,1.91,4.5,3.1,1.91,Norwich City,Manchester United
+England,England Premier League,2015/2016,3,2,3,3.5,2.45,3,3.5,2.45,3,3.2,2.38,Sunderland,Chelsea
+England,England Premier League,2015/2016,1,2,2.05,3.6,3.9,2,3.6,4,1.91,3.4,4,Tottenham Hotspur,Southampton
+England,England Premier League,2015/2016,1,4,1.44,4.75,8,1.44,4.75,8,1.44,4.33,7,West Ham United,Swansea City
+England,England Premier League,2015/2016,4,0,1.17,9,17,1.15,9,19,1.14,7.5,19,Arsenal,Aston Villa
+England,England Premier League,2015/2016,1,1,2.3,3.75,3.1,2.3,3.75,3,2.3,3.3,3.1,Chelsea,Leicester City
+England,England Premier League,2015/2016,3,0,1.8,4,4.5,1.8,4.2,4.2,1.75,3.75,4.5,Everton,Norwich City
+England,England Premier League,2015/2016,3,1,1.67,4.2,5.25,1.65,3.8,5.25,1.67,4,4.75,Manchester United,Bournemouth
+England,England Premier League,2015/2016,5,1,4.5,4,1.8,4.33,4,1.8,4.5,3.4,1.83,Newcastle United,Tottenham Hotspur
+England,England Premier League,2015/2016,4,1,1.36,5.5,9,1.33,5.5,9.5,1.36,4.8,8,Southampton,Crystal Palace
+England,England Premier League,2015/2016,2,1,3.5,3.6,2.15,3.4,3.75,2.1,3.5,3.1,2.2,Stoke City,West Ham United
+England,England Premier League,2015/2016,1,1,6,4.75,1.53,6.5,4.33,1.53,5.5,4.33,1.53,Swansea City,Manchester City
+England,England Premier League,2015/2016,2,2,2.05,3.75,3.7,2.05,3.75,3.6,1.95,3.75,3.6,Watford,Sunderland
+England,England Premier League,2015/2016,1,1,2.4,3.6,3,2.4,3.6,2.9,2.4,3.1,3.1,West Bromwich Albion,Liverpool
+England,England Premier League,2015/2016,2,2,1.91,3.5,4.75,1.95,3.5,4.2,1.91,3.2,4.5,Aston Villa,Sunderland
+England,England Premier League,2015/2016,1,1,2.2,3.6,3.4,2.2,3.4,3.4,2.2,3.2,3.4,Bournemouth,Leicester City
+England,England Premier League,2015/2016,1,2,1.36,5,11,1.36,5,10,1.36,4.5,9.5,Chelsea,Crystal Palace
+England,England Premier League,2015/2016,0,3,1.36,5.5,9,1.4,5,9,1.36,4.5,9.5,Liverpool,West Ham United
+England,England Premier League,2015/2016,2,0,1.2,8,15,1.22,7,13,1.22,6,13,Manchester City,Watford
+England,England Premier League,2015/2016,0,1,6,4.2,1.62,5.5,4,1.67,6,3.6,1.62,Newcastle United,Arsenal
+England,England Premier League,2015/2016,3,0,2.05,3.5,4,2.05,3.4,3.8,2.05,3.25,3.8,Southampton,Norwich City
+England,England Premier League,2015/2016,0,1,1.95,3.4,4.5,2,3.4,4,1.95,3.25,4.2,Stoke City,West Bromwich Albion
+England,England Premier League,2015/2016,2,1,3.6,3.3,2.25,3.4,3.3,2.25,3.5,3,2.25,Swansea City,Manchester United
+England,England Premier League,2015/2016,0,0,2,3.5,4.2,2,3.5,4,2,3.25,4,Tottenham Hotspur,Everton
+England,England Premier League,2015/2016,2,0,1.29,6,12,1.3,5.5,12,1.3,5,11,Arsenal,Stoke City
+England,England Premier League,2015/2016,0,1,5.5,4.2,1.67,5.25,4,1.67,5.5,3.8,1.62,Crystal Palace,Manchester City
+England,England Premier League,2015/2016,3,1,4,3.6,2,4,3.4,2,4,3.1,2.05,Everton,Chelsea
+England,England Premier League,2015/2016,3,2,1.91,3.75,4.33,1.85,3.6,4.5,1.91,3.3,4.33,Leicester City,Aston Villa
+England,England Premier League,2015/2016,3,1,2,3.4,4.33,2,3.4,4.2,1.95,3.4,4.5,Manchester United,Liverpool
+England,England Premier League,2015/2016,3,1,2.4,3.4,3.2,2.4,3.4,3.1,2.4,3.1,3.1,Norwich City,Bournemouth
+England,England Premier League,2015/2016,0,1,4.33,3.6,1.95,4,3.6,1.95,4.2,3.25,1.95,Sunderland,Tottenham Hotspur
+England,England Premier League,2015/2016,1,0,2.75,3.4,2.75,2.75,3.25,2.75,2.75,3,2.75,Watford,Swansea City
+England,England Premier League,2015/2016,0,0,3.2,3.2,2.5,3.2,3.1,2.5,3.1,3,2.5,West Bromwich Albion,Southampton
+England,England Premier League,2015/2016,2,0,2.25,3.5,3.4,2.25,3.4,3.4,2.25,3.1,3.4,West Ham United,Newcastle United
+England,England Premier League,2015/2016,0,1,2.3,3.25,3.5,2.3,3.25,3.3,2.3,3.2,3.2,Aston Villa,West Bromwich Albion
+England,England Premier League,2015/2016,2,0,1.7,4,5.5,1.73,3.75,5.25,1.73,3.6,5,Bournemouth,Sunderland
+England,England Premier League,2015/2016,2,0,2.45,3.5,3,2.5,3.4,3,2.4,3.1,3.1,Chelsea,Arsenal
+England,England Premier League,2015/2016,1,1,1.67,4,5.75,1.67,3.8,5.5,1.67,3.6,5.5,Liverpool,Norwich City
+England,England Premier League,2015/2016,1,2,1.29,6.5,11,1.25,6.5,12,1.29,5,12,Manchester City,West Ham United
+England,England Premier League,2015/2016,1,2,2.5,3.3,3.1,2.45,3.4,3.1,2.5,3.2,2.9,Newcastle United,Watford
+England,England Premier League,2015/2016,2,3,3.1,3.3,2.5,3.1,3.2,2.5,3,3,2.5,Southampton,Manchester United
+England,England Premier League,2015/2016,2,2,2.5,3.4,3,2.5,3.4,3,2.5,3,3,Stoke City,Leicester City
+England,England Premier League,2015/2016,0,0,2.3,3.4,3.4,2.25,3.4,3.4,2.3,3.2,3.2,Swansea City,Everton
+England,England Premier League,2015/2016,1,0,2,3.6,4,2,3.5,4,1.95,3.5,3.8,Tottenham Hotspur,Crystal Palace
+England,England Premier League,2015/2016,2,5,4.5,4,1.8,4.33,3.75,1.83,4,3.75,1.85,Leicester City,Arsenal
+England,England Premier League,2015/2016,3,2,1.53,4.33,7,1.53,4,7,1.53,3.8,7,Liverpool,Aston Villa
+England,England Premier League,2015/2016,3,0,1.2,7.5,16,1.22,6.5,13,1.22,6,13,Manchester United,Sunderland
+England,England Premier League,2015/2016,2,2,6,4.2,1.62,6,4,1.62,6,3.6,1.62,Newcastle United,Chelsea
+England,England Premier League,2015/2016,3,1,2.05,3.4,4.2,2.05,3.4,3.8,2.05,3.1,4,Southampton,Swansea City
+England,England Premier League,2015/2016,2,1,2.55,3.3,3,2.5,3.3,2.88,2.5,3.1,3,Stoke City,Bournemouth
+England,England Premier League,2015/2016,4,1,4.2,3.8,1.91,4.2,3.75,1.9,4,3.4,1.95,Tottenham Hotspur,Manchester City
+England,England Premier League,2015/2016,0,1,2.5,3.3,3.1,2.5,3.3,2.9,2.5,3.1,3,Watford,Crystal Palace
+England,England Premier League,2015/2016,2,3,3.1,3.3,2.5,3,3.25,2.5,3.1,3,2.5,West Bromwich Albion,Everton
+England,England Premier League,2015/2016,2,2,2.25,3.5,3.4,2.2,3.4,3.4,2.3,3.2,3.2,West Ham United,Norwich City
+England,England Premier League,2015/2016,3,0,2,3.8,3.8,2.05,3.4,3.8,1.95,3.6,3.75,Arsenal,Manchester United
+England,England Premier League,2015/2016,0,1,2.5,3.3,3.1,2.5,3.3,3,2.5,3.2,2.9,Aston Villa,Stoke City
+England,England Premier League,2015/2016,1,1,2.1,3.5,3.8,2.15,3.4,3.6,2.15,3,3.75,Bournemouth,Watford
+England,England Premier League,2015/2016,1,3,1.83,3.7,4.8,1.8,3.75,4.5,1.83,3.2,4.8,Chelsea,Southampton
+England,England Premier League,2015/2016,2,0,1.83,3.6,5,1.85,3.5,4.75,1.85,3.1,5,Crystal Palace,West Bromwich Albion
+England,England Premier League,2015/2016,1,1,2.7,3.4,2.8,2.7,3.25,2.8,2.75,2.8,2.9,Everton,Liverpool
+England,England Premier League,2015/2016,6,1,1.25,7,13,1.25,6.5,13,1.25,6,13,Manchester City,Newcastle United
+England,England Premier League,2015/2016,1,2,2.3,3.5,3.3,2.25,3.4,3.3,2.25,3.4,3.1,Norwich City,Leicester City
+England,England Premier League,2015/2016,2,2,3.2,3.4,2.4,3.1,3.4,2.4,2.9,3.4,2.38,Sunderland,West Ham United
+England,England Premier League,2015/2016,2,2,2.75,3.25,2.8,2.7,3.2,2.75,2.62,3.25,2.7,Swansea City,Tottenham Hotspur
+England,England Premier League,2015/2016,2,0,1.33,5.75,10,1.36,5,10,1.36,4.8,8.5,Chelsea,Aston Villa
+England,England Premier League,2015/2016,1,3,2,3.6,4,2,3.6,3.75,2.05,3.3,3.75,Crystal Palace,West Ham United
+England,England Premier League,2015/2016,0,3,3.25,3.4,2.38,3.25,3.25,2.38,3.2,3,2.4,Everton,Manchester United
+England,England Premier League,2015/2016,5,1,1.33,5.75,10,1.33,5.5,10,1.36,4.8,8.5,Manchester City,Bournemouth
+England,England Premier League,2015/2016,6,2,2.6,3.4,2.88,2.62,3.4,2.8,2.62,3.1,2.8,Newcastle United,Norwich City
+England,England Premier League,2015/2016,2,2,1.75,4,5,1.75,3.75,5,1.8,3.25,5,Southampton,Leicester City
+England,England Premier League,2015/2016,0,1,2.05,3.4,4.2,2.05,3.4,4,2.05,3.1,4,Swansea City,Stoke City
+England,England Premier League,2015/2016,0,0,2.5,3.5,3,2.4,3.4,2.88,2.5,3.3,3,Tottenham Hotspur,Liverpool
+England,England Premier League,2015/2016,0,3,6,4.2,1.62,6,4,1.62,6,3.6,1.62,Watford,Arsenal
+England,England Premier League,2015/2016,1,0,2.05,3.4,4.2,2.05,3.25,4.2,2.1,3,4,West Bromwich Albion,Sunderland
+Spain,Spain LIGA BBVA,2015/2016,1,2,3.6,3.3,2.15,3.6,3.3,2.15,3.4,3.1,2.25,Levante UD,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.2,6.5,15,1.22,6.5,15,1.22,5.5,15,Atlético Madrid,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,0,0,3.4,3.4,2.15,3.4,3.3,2.25,3.2,3.4,2.2,Málaga CF,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,0,1,6.5,4.33,1.5,6.5,4.33,1.53,7,3.8,1.53,Athletic Club de Bilbao,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,1,3,1.91,3.3,4.5,1.95,3.3,4.5,1.95,3.1,4.5,Granada CF,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.91,3.4,4.33,1.91,3.4,4.5,1.91,3.3,4.33,RCD Espanyol,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.8,3.25,2.6,2.9,3.3,2.5,2.8,3.1,2.62,Real Betis Balompié,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,0,0,13,6.5,1.22,13,6.5,1.22,15,5,1.25,Real Sporting de Gijón,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,0,0,2.5,3.2,3,2.62,3.2,2.8,2.62,3,2.9,RC Deportivo de La Coruña,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,0,0,3.6,3.5,2.05,3.6,3.6,2,3.6,3.3,2.1,Rayo Vallecano,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.2,3.4,3.3,2.1,3.3,3.5,2.15,3.1,3.6,SD Eibar,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,0,2,10,5.75,1.29,9.5,5.5,1.3,9,5,1.33,Getafe CF,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,2,1,2.25,3.4,3.25,2.2,3.3,3.2,2.25,3.1,3.4,Villarreal CF,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,3,1,1.09,11,23,1.1,10,26,1.1,9,26,Real Madrid CF,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,2,3,2.7,3.2,2.75,2.5,3.25,2.7,2.7,3.1,2.7,Real Sociedad,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.44,4.5,7.5,1.44,4.2,7.5,1.44,4.2,8,Valencia CF,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,1,1,5.5,3.4,1.7,5.5,3.5,1.75,5,3.5,1.73,RC Deportivo de La Coruña,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.38,3.2,3.2,2.3,3.1,3.1,2.4,3.1,3.1,Real Sporting de Gijón,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,1,3,3.25,3.25,2.3,3.1,3.25,2.25,3.2,3.2,2.3,Real Betis Balompié,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,1,1,2,3.3,4,1.95,3.25,3.8,2,3.2,4,RCD Espanyol,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,3,1,2.1,3.25,3.75,2.05,3.1,3.8,2.1,3,4,SD Eibar,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.3,5.5,10,1.3,5.25,9.5,1.36,4.5,9,FC Barcelona,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,3,2,3.6,4,1.91,3.6,3.8,1.85,4,3.4,1.91,Sevilla FC,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,2,0,2.75,3.1,2.75,2.75,3.2,2.7,2.7,3.1,2.7,UD Las Palmas,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,1,5,1.85,3.75,4.2,1.85,3.6,4,1.85,3.75,4,RC Celta de Vigo,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.6,3.1,2.9,2.5,3.1,2.8,2.7,3.1,2.7,Levante UD,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.2,6.5,17,1.22,6,15,1.25,5,15,Atlético Madrid,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,0,1,1.95,3.5,4,1.85,3.4,4.2,2,3.2,4,Málaga CF,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.44,4.5,7.5,1.44,4.33,7.5,1.44,4.33,7,Athletic Club de Bilbao,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.95,3.5,4,1.91,3.5,4,1.91,3.4,4,Rayo Vallecano,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.4,3.3,3,2.4,3.3,2.9,2.4,3.2,3,Getafe CF,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,1,1,1.53,4,7,1.5,4,6.5,1.53,3.8,7,Villarreal CF,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,0,4,2.5,3.75,2.8,2.4,3.6,2.8,2.5,3.3,2.8,Real Madrid CF,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,2,0,2.63,3.3,2.7,2.62,3.4,2.5,2.7,3.1,2.7,Real Sociedad,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,1,1,1.44,4.2,7.5,1.5,4,6.5,1.53,3.8,7,Valencia CF,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,2,0,3.3,3.4,2.2,3.1,3.5,2.15,3.2,3.3,2.25,RC Deportivo de La Coruña,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,0,3,2.2,3.2,3.5,2.1,3.2,3.6,2.2,3.3,3.3,Real Sporting de Gijón,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,0,1,5.5,3.8,1.67,5.75,3.6,1.62,5.5,3.6,1.67,Real Betis Balompié,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,2,0,2.4,3.2,3.1,2.3,3.1,3.1,2.4,3.1,3.1,RCD Espanyol,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,2,0,3.75,3.3,2.1,3.75,3.25,2.05,3.75,3.2,2.1,Granada CF,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,2,0,3,3.3,2.4,3.1,3.1,2.38,3.1,3.1,2.4,Getafe CF,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,0,2,7.5,5,1.4,6.5,4.75,1.44,8,4.2,1.44,SD Eibar,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,4,0,1.07,13,23,1.08,8.5,19,1.08,11,34,FC Barcelona,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.75,4,4.33,1.75,3.8,4.5,1.83,3.6,4.2,Sevilla FC,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,0,2,2.3,3.3,3.2,2.3,3.2,3.2,2.4,3.1,3.1,UD Las Palmas,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.4,5,7.5,1.36,4.75,7.5,1.4,4.5,8,RC Celta de Vigo,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,0,1,2.05,3.4,3.75,2.05,3.25,3.75,2.1,3.25,3.6,Levante UD,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.22,6,15,1.25,5.5,13,1.29,4.5,15,Atlético Madrid,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,2,2,1.83,3.4,4.75,1.8,3.4,4.75,1.8,3.3,5,Málaga CF,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,0,3,3.1,3.4,2.3,3,3.4,2.25,3.2,3.2,2.3,Rayo Vallecano,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.57,3.8,6.5,1.57,4,6,1.57,3.8,6,Villarreal CF,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,4,1,1.1,11,21,1.1,9,19,1.11,8,26,Real Madrid CF,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.85,3.5,4.5,1.83,3.5,4.5,1.91,3.2,4.33,Real Sociedad,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,1,1,9,6,1.3,9,5.75,1.3,9,5.5,1.3,Valencia CF,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,1,1,3,3.3,2.4,2.88,3.5,2.3,2.75,3.5,2.4,RC Deportivo de La Coruña,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,3,1,2.3,3.3,3.25,2.25,3.25,3.2,2.3,3.2,3.2,Real Sporting de Gijón,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,1,1,3.3,3.5,2.15,3.25,3.5,2.1,3.4,3.2,2.2,Real Betis Balompié,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,1,1,2,3.5,3.8,1.95,3.25,4,2,3.2,4,RCD Espanyol,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,0,2,7,3.75,1.57,7,3.6,1.55,6.5,3.5,1.62,Granada CF,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,0,0,1.45,4.33,7.5,1.48,4.2,7,1.5,4,7,Athletic Club de Bilbao,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,1,0,5,4.2,1.65,4.5,4,1.67,5,3.8,1.67,Villarreal CF,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.88,3.2,2.6,2.75,3.1,2.62,2.6,3.1,2.8,Getafe CF,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.45,3.2,3,2.5,3.2,2.88,2.62,3.1,2.8,SD Eibar,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,2,2,1.07,13,26,1.07,13,34,1.08,11,26,FC Barcelona,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.36,5,8.5,1.33,5,9.5,1.36,5,8,Sevilla FC,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.15,3.3,3.5,2.05,3.4,3.5,2.15,3.25,3.5,UD Las Palmas,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.53,4.33,6,1.53,4.2,6,1.5,4.33,6,RC Celta de Vigo,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,1,2,2.1,3.1,4,2.05,3.1,3.8,2.05,3.1,4,Levante UD,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.57,3.75,7,1.57,3.75,6.5,1.62,3.6,6,Atlético Madrid,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,1,2,2.3,3.25,3.25,2.3,3.3,3.1,2.3,3.2,3.2,Rayo Vallecano,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,10,2,1.1,11,21,1.09,12,26,1.1,10,21,Real Madrid CF,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,0,2,2.4,3.2,3.1,2.4,3.1,3,2.5,3.2,2.88,Real Sociedad,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,2,2,1.67,3.75,5.5,1.67,3.6,5.25,1.67,3.6,5.5,Valencia CF,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,2,0,2,3.3,4,1.95,3.3,4,2,3.25,4,RC Deportivo de La Coruña,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,1,3,19,8,1.14,15,8,1.17,17,8,1.14,Real Sporting de Gijón,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,0,0,3.75,3.5,2,3.6,3.6,1.95,3.8,3.3,2,Real Betis Balompié,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.05,3.4,3.75,2.05,3.25,3.8,2,3.2,4,RCD Espanyol,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,0,2,3.2,3.3,2.3,3.2,3.25,2.25,3.2,3.2,2.3,Granada CF,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.4,4.5,9,1.36,4.33,9.5,1.4,4.2,9,Athletic Club de Bilbao,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,1,0,5.25,3.5,1.75,5,3.3,1.8,5.5,3.25,1.75,Málaga CF,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,3,1,1.1,10,19,1.12,9.5,21,1.12,9,17,Real Madrid CF,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.8,3.5,4.5,1.85,3.4,4.33,1.8,3.4,4.8,Villarreal CF,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,0,0,2.5,3.2,2.88,2.5,3.1,2.9,2.5,3.2,2.9,Getafe CF,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.85,3.5,4.2,1.85,3.3,4.5,1.85,3.4,4.4,SD Eibar,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,4,0,1.06,13,26,1.06,15,41,1.04,15,29,FC Barcelona,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.4,4.75,7,1.4,4.5,8,1.4,4.75,7.5,Sevilla FC,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,4,1,2,3.3,3.75,2.05,3.2,3.8,2.1,3.1,3.8,UD Las Palmas,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,0,1,2.38,3.3,2.9,2.5,3.3,2.8,2.38,3.4,2.9,RC Celta de Vigo,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,0,1,2.75,3,2.75,2.7,3,2.75,2.62,3.1,2.8,Levante UD,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,0,2,6.5,3.8,1.53,6,3.8,1.55,6,3.75,1.6,Rayo Vallecano,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,2,2,2.63,3.3,2.75,2.5,3.25,2.8,2.7,3.3,2.7,Rayo Vallecano,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,2,2,6,4.33,1.53,5.25,4.33,1.57,5.5,3.8,1.62,Valencia CF,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,1,2,2.7,3.2,2.7,2.7,3.1,2.62,2.7,3.1,2.7,RC Deportivo de La Coruña,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,1,2,2.25,3.3,3.3,2.15,3.2,3.4,2.3,3.1,3.3,Real Sporting de Gijón,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,0,4,2.4,3.25,3.1,2.4,3.2,3,2.5,3.2,2.9,Real Betis Balompié,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,0,0,14,7,1.2,15,7,1.18,13,6,1.22,RCD Espanyol,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,2,1,4.33,3.6,1.85,4.33,3.5,1.85,4.2,3.4,1.91,Granada CF,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,2,2,1.36,5,8.5,1.36,4.5,10,1.4,4.5,8,Athletic Club de Bilbao,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,2,0,2.4,3.3,3,2.3,3.1,3.2,2.4,3.1,3.1,Málaga CF,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.2,6.5,17,1.2,6,21,1.2,6,17,Atlético Madrid,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,2,0,2.25,3.3,3.3,2.2,3.3,3.3,2.15,3.25,3.5,Real Sociedad,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,5,0,1.11,9,21,1.11,9.5,23,1.14,7.5,19,Real Madrid CF,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.5,4.33,6.5,1.48,4,7,1.44,4.4,7,Villarreal CF,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.95,3.5,4,1.95,3.4,3.8,1.95,3.25,4.2,Getafe CF,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,2,1,2,3.3,4,1.95,3.25,4.2,2,3.3,3.8,SD Eibar,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,4,0,1.05,15,34,1.05,17,34,1.02,17,41,FC Barcelona,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,2,0,2.1,3.5,3.5,1.95,3.5,3.6,2.05,3.5,3.5,Sevilla FC,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.7,3.1,2.8,2.62,3,2.8,2.6,3,2.9,UD Las Palmas,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,0,2,4.5,3.5,1.8,4.5,3.3,1.85,4.5,3.4,1.83,RC Celta de Vigo,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,2,1,2.15,3.4,3.4,2.15,3.3,3.4,2.25,3.25,3.25,Levante UD,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.53,4.33,6,1.57,4.2,5.5,1.55,4,6,RC Celta de Vigo,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,0,0,1.91,3.3,4.5,1.95,3.3,4,1.91,3.2,4.5,UD Las Palmas,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,0,3,2.8,3.2,2.63,2.88,3.25,2.5,2.7,3.1,2.7,Sevilla FC,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.1,10,26,1.12,8.5,19,1.14,7.5,19,FC Barcelona,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,2,0,4,3.1,2.1,4,3.2,2.05,3.8,3,2.15,SD Eibar,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,1,2,2.05,3.2,4,2.1,3.2,4,2.05,3.1,4,Getafe CF,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,3,1,1.57,3.8,6.5,1.53,4,7,1.53,3.8,7,Villarreal CF,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,5,0,1.1,10,26,1.12,9,19,1.12,8,21,Real Madrid CF,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,0,0,1.85,3.5,4.5,1.85,3.4,4.33,1.91,3.2,4.5,Real Sociedad,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,1,1,1.44,4.33,8,1.44,4.33,7.5,1.44,4.2,7.5,Valencia CF,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,4,3,1.62,3.8,6,1.6,3.8,6,1.55,4,6,RC Celta de Vigo,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,0,3,6.5,3.6,1.62,6.5,3.6,1.57,7,3.6,1.57,UD Las Palmas,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.67,3.8,5.25,1.65,3.8,5.25,1.6,4,5.5,Sevilla FC,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,6,0,1.14,8,19,1.14,8.5,21,1.15,7.5,17,FC Barcelona,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,5,1,1.83,3.5,4.5,1.8,3.4,4.75,1.8,3.3,5,SD Eibar,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,3,1,2.2,3.2,3.5,2.15,3.1,3.6,2.2,3.1,3.5,Getafe CF,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,0,0,1.45,4.33,8,1.48,4,7,1.4,4.5,8,Villarreal CF,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,5,1,1.05,17,26,1.07,13,34,1.08,11,23,Real Madrid CF,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,1,1,1.95,3.3,4.2,1.91,3.3,4,2,3.1,4.2,Real Sociedad,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,2,2,1.62,4,5.5,1.6,4,5.25,1.61,3.75,5.5,Valencia CF,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,3,0,2.7,3.4,2.63,2.7,3.4,2.5,2.7,3.1,2.7,Rayo Vallecano,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,3,2,2.38,3.1,3.25,2.3,3.1,3.2,2.3,3.2,3.2,Levante UD,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,0,0,1.67,3.5,6,1.62,3.6,6,1.67,3.4,6,Atlético Madrid,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,1,2,8.5,5.5,1.33,8.5,5,1.35,8.5,4.8,1.36,Málaga CF,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,5,2,1.67,3.75,5.5,1.67,3.75,5.25,1.73,3.5,5,Athletic Club de Bilbao,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,3,2,2.63,3.1,2.88,2.5,3.1,2.9,2.62,3.1,2.8,Granada CF,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,2,2,2.9,3.2,2.55,2.8,3.1,2.5,2.8,3.1,2.6,RCD Espanyol,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,1,1,9.5,5.75,1.3,9,5.5,1.3,10,4.8,1.33,Real Betis Balompié,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,5,1,3.1,3.2,2.45,2.9,3.25,2.4,2.9,3.2,2.5,Real Sporting de Gijón,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.25,3.3,3.3,2.15,3.25,3.4,2.3,3.2,3.2,RC Deportivo de La Coruña,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,2,1,2.38,3.3,3.1,2.4,3.25,3,2.5,3.2,2.9,UD Las Palmas,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,3,1,1.33,5,10,1.33,5,9.5,1.33,5,9,Sevilla FC,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.5,4.2,7,1.48,4.2,6.5,1.53,3.8,7,FC Barcelona,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,1,2,2.38,3.25,3,2.4,3.1,3.1,2.5,3.2,2.9,SD Eibar,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,0,1,3.4,3.3,2.2,3.4,3.25,2.15,3.2,3.2,2.3,Getafe CF,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.44,4.5,7.5,1.5,4,7,1.5,4,7,Villarreal CF,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,6,0,1.1,11,21,1.11,10,23,1.1,9,26,Real Madrid CF,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.67,3.75,5.5,1.67,3.6,5.25,1.75,3.5,5,Real Sociedad,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,0,1,1.75,3.75,4.75,1.73,3.8,4.75,1.75,3.5,5,Valencia CF,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,2,2,1.91,3.6,4,1.85,3.5,4,1.85,3.4,4.5,RC Deportivo de La Coruña,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.91,3.6,4,1.85,3.6,4,1.91,3.5,4,Rayo Vallecano,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,1,1,3.2,3.3,2.3,3.1,3.3,2.3,3.1,3.1,2.4,RC Celta de Vigo,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,0,2,15,7.5,1.18,15,7,1.18,17,6,1.2,Levante UD,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,3,1,1.36,4.5,9.5,1.36,4.33,9.5,1.44,4,8,Atlético Madrid,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.57,3.75,6.5,1.62,3.6,5.75,1.62,3.6,6,Málaga CF,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,0,0,1.83,3.6,4.5,1.8,3.5,4.5,1.83,3.4,4.5,Athletic Club de Bilbao,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,1,2,12,6,1.25,10,6,1.25,12,5,1.29,Granada CF,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,0,5,2.7,3.1,2.8,2.7,3,2.75,2.7,3.1,2.7,RCD Espanyol,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.63,3.1,2.88,2.6,3.2,2.75,2.7,3.1,2.7,Real Betis Balompié,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.5,3.25,2.9,2.5,3.1,2.9,2.5,3.1,3,Real Sporting de Gijón,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.33,5,10,1.3,5,10,1.33,5,9,Sevilla FC,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,6,1,1.08,11,26,1.08,12,34,1.1,9,26,FC Barcelona,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.8,3.5,4.75,1.8,3.5,4.5,1.8,3.5,4.5,SD Eibar,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,0,1,6.5,3.8,1.57,6.5,3.6,1.57,7,3.6,1.57,Getafe CF,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.05,3.3,3.8,2.05,3.1,3.8,2.1,3.1,3.8,Villarreal CF,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,4,2,1.29,6,9.5,1.29,6,8.5,1.3,5,11,Real Madrid CF,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.53,4,6.5,1.6,3.8,5.75,1.62,3.6,6,Real Sociedad,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.75,3.6,5,1.73,3.6,4.75,1.8,3.3,5,Valencia CF,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,2,2,1.8,3.5,4.75,1.75,3.4,5,1.85,3.4,4.5,RC Deportivo de La Coruña,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,2,2,2.38,3.4,3,2.3,3.3,3,2.38,3.4,2.9,Real Sporting de Gijón,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,2,2,3.1,3.6,2.2,3.1,3.6,2.15,3.2,3.3,2.25,Rayo Vallecano,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,1,2,15,7.5,1.18,15,7,1.18,17,6,1.2,UD Las Palmas,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,3,2,2,3.5,3.8,1.95,3.5,3.8,2,3.2,4,RC Celta de Vigo,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,3,0,2.2,3.3,3.4,2.1,3.3,3.5,2.15,3.25,3.5,Levante UD,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,0,0,1.53,3.8,7.5,1.5,3.8,7.5,1.57,3.5,7,Atlético Madrid,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,1,1,4.75,3.8,1.73,4.5,4,1.7,5,3.5,1.75,Málaga CF,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,0,1,1.8,3.5,4.75,1.75,3.5,4.5,1.83,3.4,4.5,Athletic Club de Bilbao,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,1,2,2.88,3.2,2.55,2.75,3.2,2.5,2.8,3.1,2.62,Granada CF,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.38,3.3,3,2.4,3.2,3,2.5,3.1,3,RCD Espanyol,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.05,3.3,3.8,2,3.3,3.8,2.05,3.2,3.8,Real Betis Balompié,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.14,8,15,1.18,7.5,13,1.2,7,12,FC Barcelona,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,0,1,1.75,3.6,5,1.73,3.6,4.75,1.75,3.6,4.75,SD Eibar,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,0,1,3.2,3.3,2.3,3,3.3,2.3,3.1,3.3,2.3,Getafe CF,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.67,3.6,5.75,1.65,3.6,5.5,1.62,3.6,6,Villarreal CF,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,0,1,1.73,3.6,5.25,1.75,3.6,4.5,1.8,3.6,4.33,Real Madrid CF,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.2,3.25,3.5,2.2,3.2,3.4,2.25,3.1,3.4,Real Sociedad,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,0,3,2.3,3.2,3.3,2.25,3.3,3.2,2.25,3.25,3.25,Valencia CF,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,0,1,1.8,3.5,4.75,1.8,3.4,4.75,1.83,3.5,4.4,RC Deportivo de La Coruña,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,2,4,2.3,3.2,3.3,2.25,3.2,3.25,2.38,3.25,3,Real Sporting de Gijón,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,2,2,2.2,3.3,3.4,2.2,3.4,3.25,2.25,3.4,3.1,Real Betis Balompié,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,1,5,13,7,1.2,11,7,1.22,12,7,1.2,Rayo Vallecano,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.4,4.75,8,1.4,4.5,7.5,1.44,4,8,Sevilla FC,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,4,0,2.05,3.4,3.75,1.95,3.3,3.8,2,3.25,4,UD Las Palmas,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,0,0,2.2,3.3,3.4,2.1,3.25,3.5,2.2,3.3,3.3,RC Celta de Vigo,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,1,3,7,4.75,1.44,6,4.5,1.5,7,4.5,1.44,Levante UD,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.4,4.33,9,1.48,3.8,7.5,1.44,3.8,9,Atlético Madrid,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,1,2,2.05,3.3,3.8,2,3.25,3.8,2.05,3.25,3.8,Málaga CF,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,4,1,1.53,4,7,1.5,4,7,1.53,4.2,6,Athletic Club de Bilbao,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,2,0,2.1,3.3,3.75,2.05,3.3,3.6,2.1,3.25,3.6,Granada CF,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,0,3,1.95,3.5,4,1.91,3.4,4,1.95,3.4,4,RCD Espanyol,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,0,4,10,6.5,1.25,9,5.75,1.25,12,5,1.29,SD Eibar,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,1,1,3.8,3.5,2,3.6,3.6,1.95,3.8,3.5,1.95,Getafe CF,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,0,1,1.62,3.75,6,1.6,3.8,6,1.62,3.6,6,Villarreal CF,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,7,1,1.3,6,8,1.3,5.75,8,1.33,5,9,Real Madrid CF,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,1,1,1.57,3.75,7,1.57,3.8,6,1.62,3.6,6,Real Sociedad,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,1,3,4,3.3,2,4,3.2,2,4,3.1,2.05,Valencia CF,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,3,3,2.5,3.1,3,2.5,3,2.9,2.7,3,2.8,RC Deportivo de La Coruña,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,0,2,4,3.3,2,3.8,3.4,1.95,3.75,3.3,2.05,Real Sporting de Gijón,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,2,0,2.1,3.4,3.6,2.05,3.25,3.8,2.1,3.2,3.75,Real Betis Balompié,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.95,3.5,4,2,3.5,3.6,2.05,3.5,3.5,RCD Espanyol,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.2,3.6,3.1,2.1,3.6,3.2,2.15,3.5,3.25,Rayo Vallecano,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,6,0,1.06,15,26,1.06,15,41,1.04,15,29,FC Barcelona,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,4,2,1.73,3.75,5,1.7,3.6,5,1.75,3.5,5,Sevilla FC,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,1,2,9.5,5.25,1.33,6.5,5.2,1.33,8,5,1.36,UD Las Palmas,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.1,3.4,3.5,2.05,3.4,3.5,2.05,3.4,3.5,RC Celta de Vigo,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.63,3.25,2.8,2.5,3.2,2.8,2.6,3.2,2.75,Levante UD,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.25,5.5,15,1.25,5.25,17,1.25,5.5,13,Atlético Madrid,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.62,3.8,6,1.62,3.75,6,1.62,3.6,6,Málaga CF,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,3,1,1.44,4.33,8,1.44,4.33,7,1.5,4,7,Athletic Club de Bilbao,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.15,3.3,3.5,2.2,3.3,3.3,2.3,3.2,3.2,Granada CF,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,3,3,1.5,4.2,7,1.5,4,7,1.5,4,7,RC Celta de Vigo,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,1,1,4.75,3.75,1.75,4.75,3.6,1.8,4.6,3.5,1.8,Levante UD,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,1,2,3.3,3.2,2.3,3.4,3.4,2.2,3.3,3.2,2.25,Atlético Madrid,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,0,0,1.75,3.5,5.25,1.75,3.6,5,1.8,3.4,4.8,Málaga CF,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,3,1,1.57,3.75,7,1.6,3.8,6.5,1.6,3.75,6,Athletic Club de Bilbao,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,1,3,3.5,3.1,2.25,3.5,3.2,2.25,3.4,3.1,2.25,Granada CF,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,0,6,10,5,1.33,10,5.5,1.3,8,5,1.36,RCD Espanyol,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.3,3.3,3.2,2.4,3.25,3.1,2.38,3.25,3,Real Betis Balompié,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,0,1,3.4,3.2,2.25,3.4,3.2,2.25,3.3,3.2,2.25,Real Sporting de Gijón,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,1,3,2.1,3.5,3.5,2.15,3.4,3.5,2.15,3.5,3.25,Rayo Vallecano,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.1,3.25,3.75,2.1,3.25,3.6,2.2,3.1,3.5,Getafe CF,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,2,2,8.5,5.25,1.33,8.5,5,1.36,9,5,1.33,Villarreal CF,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,4,0,1.33,5.5,8.5,1.36,5.25,7,1.36,5,8,Real Madrid CF,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,0,1,1.67,3.5,6,1.67,3.6,5.25,1.73,3.5,5,Real Sociedad,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,0,2,2.3,3.5,3,2.25,3.4,3,2.4,3.1,3.1,Valencia CF,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.91,3.4,4.33,1.85,3.4,4.2,1.95,3.25,4.2,RC Deportivo de La Coruña,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,2,1,8.5,3.6,1.53,7,3.8,1.5,7,3.75,1.53,Real Sporting de Gijón,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,0,1,2.6,3.1,2.9,2.5,3.1,2.88,2.7,3,2.8,Real Betis Balompié,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,2,1,3.1,3.4,2.3,3,3.3,2.3,3.2,3.2,2.3,RCD Espanyol,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,2,2,2.15,3.4,3.4,2.1,3.5,3.3,2.2,3.3,3.3,Granada CF,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.91,3.6,4,1.85,3.5,4,1.85,3.75,4,Rayo Vallecano,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,1,2,3.1,3,2.55,3,3,2.5,2.8,3.1,2.62,SD Eibar,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,1,2,1.57,4.5,5.5,1.62,4.33,5.5,1.62,4.4,5,FC Barcelona,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,1,2,1.62,4,5.5,1.62,3.8,5.5,1.67,4,4.8,Sevilla FC,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,2,1,2.38,3.25,3.1,2.4,3.3,2.9,2.38,3.25,3,UD Las Palmas,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,1,1,1.75,3.8,4.75,1.75,3.6,4.5,1.73,3.8,4.6,RC Celta de Vigo,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,0,0,2.1,3.25,3.75,2.05,3.25,3.6,2.1,3.25,3.6,Levante UD,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,5,1,1.4,4.33,10,1.36,4.5,10,1.4,4.33,8.5,Atlético Madrid,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,1,1,1.85,3.4,4.75,1.85,3.3,4.33,1.91,3.3,4.33,Málaga CF,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,1,1,1.44,4.33,8,1.48,4.2,7,1.5,4,7,Athletic Club de Bilbao,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.5,3.8,7.5,1.5,3.8,7,1.5,4,7,Villarreal CF,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,4,0,1.17,7.5,13,1.17,7.5,15,1.2,7,12,Real Madrid CF,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,1,0,6,4.33,1.5,6,4.2,1.53,5.5,4.33,1.55,Real Sociedad,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,2,1,2.2,3.4,3.2,2.25,3.5,2.9,2.4,3.5,2.8,Valencia CF,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,1,3,2.05,3.3,3.6,2.1,3.2,3.6,2.05,3.4,3.6,RC Deportivo de La Coruña,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,0,1,3.1,3.25,2.3,3.1,3.3,2.25,2.8,3.4,2.45,Real Sporting de Gijón,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.05,3.25,3.75,2.05,3.4,3.6,2.05,3.4,3.6,Real Betis Balompié,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,1,3,4,3.1,2.05,4,3.25,1.95,4.2,3.25,1.95,RCD Espanyol,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,0,0,2.3,3.2,3.3,2.25,3.2,3.25,2.25,3.2,3.3,Granada CF,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.53,4,6,1.57,4.2,5.5,1.6,4.2,5,Athletic Club de Bilbao,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,2,1,2.6,3.3,2.75,2.5,3.3,2.7,2.6,3.3,2.7,Rayo Vallecano,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,1,5,9.5,6,1.29,9.5,6,1.29,9,5.5,1.3,Getafe CF,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,2,1,2.7,3.25,2.7,2.7,3.1,2.7,2.62,3.25,2.7,SD Eibar,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,1,2,1.14,9,17,1.17,8,15,1.12,8.5,19,FC Barcelona,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,1,1,1.53,4.2,6,1.53,4.2,5.75,1.44,4.6,6.5,Sevilla FC,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,1,1,1.95,3.5,4,1.91,3.4,4,1.91,3.5,4,UD Las Palmas,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,1,1,1.6,4.2,5.5,1.55,4,6,1.6,4.2,5,RC Celta de Vigo,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,2,1,2.45,3.3,3,2.4,3.25,2.9,2.3,3.3,3.1,Levante UD,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.22,6,15,1.25,5.5,15,1.25,5.5,13,Atlético Madrid,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,0,1,2.3,3.25,3.25,2.3,3.2,3.2,2.3,3.2,3.2,Málaga CF,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.22,7,11,1.2,7,12,1.22,7,10,Real Madrid CF,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,1,2,1.53,4.2,6,1.53,4.2,6,1.55,4,6,Real Sociedad,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,4,0,1.62,4.2,5.25,1.62,4,5.25,1.67,3.8,5,Valencia CF,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,0,8,13,7,1.2,13,7,1.2,12,7,1.2,RC Deportivo de La Coruña,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,2,1,3.1,3.4,2.3,3.1,3.4,2.25,3.2,3.3,2.25,Real Sporting de Gijón,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.1,3.5,3.5,2.1,3.3,3.4,2.15,3.3,3.4,Real Betis Balompié,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.38,3.3,3,2.4,3.3,2.9,2.5,3.2,2.9,RCD Espanyol,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,5,1,1.95,3.5,3.8,1.95,3.3,4,2,3.4,3.8,Granada CF,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,0,1,4,3.3,2,3.8,3.2,2,4,3.1,2.05,Athletic Club de Bilbao,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,1,1,1.85,3.75,4.2,1.85,3.6,4,1.91,3.5,4,Málaga CF,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,2,3,8.5,5.5,1.33,7,5.25,1.36,9,5.5,1.3,Rayo Vallecano,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,0,0,1.73,3.75,5,1.75,3.6,4.5,1.85,3.4,4.5,Villarreal CF,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,2,2,3.2,3.3,2.3,3,3.4,2.3,3.1,3.1,2.4,Getafe CF,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.25,3.2,3.4,2.15,3.3,3.3,2.3,3.2,3.2,SD Eibar,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,6,0,1.04,17,34,1.05,15,26,1.05,17,41,FC Barcelona,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.5,4.33,6.5,1.5,4.33,5.75,1.53,4.2,6,Sevilla FC,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,4,0,2.25,3.3,3.3,2.2,3.3,3.3,2.2,3.3,3.3,UD Las Palmas,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.53,4.33,6,1.55,4,6,1.57,3.8,6,RC Celta de Vigo,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,2,2,3.4,3.2,2.25,3.3,3.25,2.2,3.2,3.3,2.25,Levante UD,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.33,5,11,1.35,4.5,10,1.33,4.5,11,Atlético Madrid,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,0,1,5,4,1.67,4.75,4,1.67,5,3.5,1.73,Real Sociedad,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,0,2,2.2,3.3,3.4,2.1,3.3,3.5,2.2,3.2,3.4,Valencia CF,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,0,2,2.3,3.3,3.2,2.2,3.3,3.2,2.3,3.2,3.2,RC Deportivo de La Coruña,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.6,3.8,5.75,1.62,3.8,5.5,1.6,3.75,6,Real Sporting de Gijón,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,0,2,21,9,1.13,19,9.5,1.13,21,7,1.14,Real Betis Balompié,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.3,3.3,3.1,2.25,3.4,3,2.4,3.2,3,RCD Espanyol,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,3,2,1.6,3.8,6,1.57,3.8,6,1.57,4,5.5,Granada CF,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.85,3.6,4.33,1.83,3.6,4.2,1.91,3.5,4,Athletic Club de Bilbao,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,3,1,2.2,3.2,3.5,2.15,3.3,3.3,2.2,3.2,3.4,Málaga CF,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.33,5,10,1.29,5.5,10,1.3,5.5,9,Atlético Madrid,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,2,1,3.5,3.6,2.05,3.4,3.6,2,3.6,3.2,2.1,Real Sociedad,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,3,2,1.2,7.5,11,1.22,7,11,1.22,6.5,12,Real Madrid CF,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,0,2,2.45,3.1,3.1,2.4,3.1,3,2.4,3.1,3.1,Villarreal CF,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.1,3.6,3.4,2.1,3.4,3.4,2.15,3.3,3.4,Getafe CF,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.1,3.6,3.4,2.1,3.4,3.4,2.2,3.3,3.3,SD Eibar,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,5,0,1.04,17,41,1.05,19,51,1.05,13,34,FC Barcelona,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,1,4,2.88,3.75,2.3,2.75,3.6,2.4,2.8,3.4,2.4,Sevilla FC,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,0,0,4,3.6,1.91,3.8,3.6,1.85,4,3.3,1.95,UD Las Palmas,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.5,4.2,7,1.5,4.33,6,1.44,4.33,7,RC Celta de Vigo,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,2,1,17,6.5,1.2,15,6,1.22,15,5.5,1.22,Levante UD,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,0,1,1.95,3.75,3.75,1.95,3.6,3.5,1.91,3.75,3.3,Valencia CF,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,0,2,13,8,1.18,11,7,1.22,11,7,1.17,RC Deportivo de La Coruña,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.44,4.5,7.5,1.44,4.33,7,1.36,4.33,8,Real Sporting de Gijón,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,2,1,5,3.8,1.7,4.5,3.8,1.7,5,3.8,1.6,Real Betis Balompié,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,4,2,2,3.6,3.7,1.95,3.5,3.75,2.05,3.4,3.25,RCD Espanyol,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,0,3,26,11,1.08,23,11,1.1,17,9.5,1.08,Granada CF,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,3,1,1.33,5.75,8,1.35,5.25,8,1.36,4.75,7,Athletic Club de Bilbao,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,4,1,1.8,3.75,4.5,1.8,3.6,4.33,1.83,3.4,4,Málaga CF,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.75,3.75,4.5,1.83,3.6,4.2,1.8,3.5,4,Atlético Madrid,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,3,1,1.33,5.25,9,1.33,5.25,9,1.29,5.5,7.5,Rayo Vallecano,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,0,1,1.91,3.5,4,1.91,3.6,4,1.91,3.5,4,UD Las Palmas,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,1,2,1.8,3.75,4.33,1.85,3.6,4.33,1.83,3.5,4.33,Sevilla FC,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,4,1,1.06,12,29,1.06,15,41,1.08,11,34,FC Barcelona,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,0,2,7,3.75,1.57,7,3.75,1.57,6.5,3.5,1.62,SD Eibar,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.6,3.1,2.9,2.62,3.1,3,2.62,2.9,3,Getafe CF,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,3,1,2,3.5,3.75,2,3.4,4,2,3.2,4,Villarreal CF,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.06,15,26,1.07,15,34,1.08,11,34,Real Madrid CF,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,2,3,2,3.4,4,2,3.4,4,2,3.2,4,Real Sociedad,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,0,0,1.5,4.33,6.5,1.53,4,6.5,1.53,4,6.5,Valencia CF,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,2,3,2.05,3.1,4.2,2.05,3.25,4,2,3.2,4,RC Deportivo de La Coruña,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,2,0,3.3,3.4,2.2,3.3,3.5,2.15,3.4,3.3,2.15,UD Las Palmas,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,4,1,6.5,4.5,1.5,6,4.33,1.53,6,4.5,1.5,RC Celta de Vigo,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,2,2,2.38,3.1,3.25,2.5,3,3.2,2.5,2.9,3.2,Levante UD,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,2,0,1.25,5.5,15,1.29,5,13,1.25,5.5,13,Atlético Madrid,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,0,1,2.63,3.3,2.75,2.62,3.1,2.7,2.7,3.1,2.7,Málaga CF,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,1,2,5.25,4.2,1.62,5,4.33,1.62,6,3.75,1.6,Athletic Club de Bilbao,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,0,3,2.4,3.1,3.2,2.4,3.1,3.2,2.45,3,3.1,Granada CF,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,1,0,3.25,3.25,2.3,3.3,3.3,2.25,3.2,3.1,2.38,RCD Espanyol,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,1,2,2.25,3.3,3.3,2.1,3.3,3.6,2.2,3.2,3.4,Real Betis Balompié,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,2,1,2.25,3.4,3.2,2.25,3.4,3.3,2.15,3.5,3.25,Rayo Vallecano,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,3,2,1.44,4.75,7,1.5,4.33,6.5,1.5,4,7,Sevilla FC,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.08,11,26,1.1,11,26,1.1,9,26,FC Barcelona,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,1,1,3.75,3.4,2.05,3.8,3.4,2.05,3.75,3.2,2.1,SD Eibar,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.95,3.3,4.2,2,3.2,4.33,2,3.2,3.75,Getafe CF,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,1,0,2.9,3.1,2.6,2.9,3.2,2.5,2.9,3,2.62,Villarreal CF,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,0,0,1.11,10,21,1.14,8.5,21,1.14,7,21,Real Madrid CF,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,0,0,2.4,3.2,3,2.5,3.2,2.9,2.6,3.1,2.8,Real Sociedad,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,1,0,1.45,4.5,7.5,1.44,4.5,7.5,1.44,4.2,8,Valencia CF,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,3,0,2.1,3.3,3.75,2.15,3.25,3.75,2.1,3.2,3.75,RC Deportivo de La Coruña,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,1,2,2.3,3.2,3.3,2.3,3.25,3.3,2.3,3.1,3.3,Real Sporting de Gijón,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,2,1,4,3.6,1.91,3.8,3.8,1.85,4.33,3.1,1.95,Sevilla FC,FC Barcelona
+Spain,Spain LIGA BBVA,2015/2016,0,2,2.1,3.3,3.75,2,3.2,3.8,2.1,3.2,3.75,UD Las Palmas,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,0,0,1.44,4.5,7.5,1.5,4.33,6.5,1.5,4,7,RC Celta de Vigo,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,1,0,4.33,3.4,1.91,4.2,3.3,1.91,4.33,3.1,1.95,Levante UD,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,1,1,3.2,3.3,2.3,3,3.25,2.3,2.9,3.1,2.5,Atlético Madrid,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,3,1,2.38,3.1,3.3,2.3,3.1,3.2,2.4,3.1,3.1,Málaga CF,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,3,1,2.3,3.3,3.2,2.3,3.2,3.1,2.4,3.1,3.1,Athletic Club de Bilbao,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.6,3.2,2.8,2.5,3.1,2.8,2.62,3.1,2.8,Granada CF,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,1,2,2,3.3,4,1.95,3.25,4,2.05,3.1,4,RCD Espanyol,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,0,2,2.2,3.5,3.2,2.1,3.6,3.25,2.15,3.5,3.2,Rayo Vallecano,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,5,2,1.14,9,15,1.14,8.5,17,1.17,7,17,FC Barcelona,Rayo Vallecano
+Spain,Spain LIGA BBVA,2015/2016,1,1,3.6,3.4,2.1,3.5,3.3,2.05,3.5,3.1,2.2,SD Eibar,Sevilla FC
+Spain,Spain LIGA BBVA,2015/2016,4,0,2.15,3.2,3.6,2.1,3.1,3.6,2.2,3.1,3.5,Getafe CF,UD Las Palmas
+Spain,Spain LIGA BBVA,2015/2016,1,2,2,3.5,3.75,2,3.4,3.6,2.1,3.2,3.75,Villarreal CF,RC Celta de Vigo
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.08,12,23,1.1,10,26,1.1,9,26,Real Madrid CF,Levante UD
+Spain,Spain LIGA BBVA,2015/2016,0,2,4,3.2,2.05,4,3.1,2,4.2,3,2.05,Real Sociedad,Atlético Madrid
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.62,3.75,6,1.62,3.8,5.5,1.67,3.4,6,Valencia CF,Málaga CF
+Spain,Spain LIGA BBVA,2015/2016,2,2,2.7,3.1,2.8,2.62,3,2.75,2.7,3,2.8,RC Deportivo de La Coruña,Athletic Club de Bilbao
+Spain,Spain LIGA BBVA,2015/2016,3,3,2,3.2,4.2,1.95,3.25,4,2.05,3.1,4,Real Sporting de Gijón,Granada CF
+Spain,Spain LIGA BBVA,2015/2016,1,3,2,3.3,4,2,3.25,3.8,2.1,3.2,3.75,Real Betis Balompié,RCD Espanyol
+Spain,Spain LIGA BBVA,2015/2016,3,1,1.11,10,19,1.11,10,21,1.14,7,21,FC Barcelona,SD Eibar
+Spain,Spain LIGA BBVA,2015/2016,5,0,1.44,4.33,8,1.44,4.2,7,1.5,4,7,Sevilla FC,Getafe CF
+Spain,Spain LIGA BBVA,2015/2016,0,0,3.5,3.25,2.2,3.5,3.25,2.1,3.5,3.1,2.2,UD Las Palmas,Villarreal CF
+Spain,Spain LIGA BBVA,2015/2016,1,3,3.8,3.8,1.91,3.6,3.8,1.85,3.75,3.5,1.95,RC Celta de Vigo,Real Madrid CF
+Spain,Spain LIGA BBVA,2015/2016,0,4,2.63,3.2,2.8,2.62,2.9,2.8,2.7,3.1,2.7,Levante UD,Real Sociedad
+Spain,Spain LIGA BBVA,2015/2016,2,1,1.57,3.8,6.5,1.57,3.75,6.5,1.62,3.3,7,Atlético Madrid,Valencia CF
+Spain,Spain LIGA BBVA,2015/2016,2,0,2.25,3.25,3.4,2.25,3.2,3.25,2.38,3.1,3.1,Málaga CF,RC Deportivo de La Coruña
+Spain,Spain LIGA BBVA,2015/2016,3,0,1.53,4,7,1.5,4,6.5,1.57,3.5,7,Athletic Club de Bilbao,Real Sporting de Gijón
+Spain,Spain LIGA BBVA,2015/2016,1,1,2.3,3.25,3.25,2.3,3.2,3.1,2.4,3.1,3.1,Granada CF,Real Betis Balompié
+Spain,Spain LIGA BBVA,2015/2016,3,0,2.2,3.4,3.2,2.1,3.4,3.3,2.2,3.4,3.2,Rayo Vallecano,RCD Espanyol
